@@ -1,0 +1,17 @@
+7
+Santana do Jacaré
+Formosa do Rio Preto
+Tunas do Paraná
+Graccho Cardoso
+Maria Helena
+Ibitirama
+Brejo
+Tunas do Paraná faz limite com Brejo
+Formosa do Rio Preto faz limite com Graccho Cardoso
+Graccho Cardoso faz limite com Maria Helena
+Tunas do Paraná faz limite com Ibitirama
+Maria Helena faz limite com Ibitirama
+Tunas do Paraná faz limite com Graccho Cardoso
+Graccho Cardoso faz limite com Brejo
+Tunas do Paraná faz limite com Maria Helena
+O mapa está completo

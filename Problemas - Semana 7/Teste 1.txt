@@ -1,0 +1,33 @@
+31
+Itapoá
+Coronel Fabriciano
+Doutor Ricardo - Coronel Fabriciano
+Condeúba - Doutor Ricardo
+Rinópolis - Condeúba
+Chopinzinho - Rinópolis
+Brusque - Rinópolis
+Santo Antônio do Caiuá - Condeúba
+Juazeiro - Santo Antônio do Caiuá
+Sapucaia do Sul - Santo Antônio do Caiuá
+Três Forquilhas - Doutor Ricardo
+Araras - Três Forquilhas
+Porto Alegre do Piauí - Três Forquilhas
+Soure - Porto Alegre do Piauí
+Governador Eugênio Barros - Porto Alegre do Piauí
+Araguaçu - Coronel Fabriciano
+Denise - Araguaçu
+Ipuiuna - Denise
+Simões - Denise
+Votorantim - Simões
+Cocalzinho de Goiás - Votorantim
+Luiziânia - Simões
+Toritama - Luiziânia
+Buritis - Araguaçu
+Santa Isabel do Ivaí - Buritis
+Itapoá - Santa Isabel do Ivaí
+Lagoa de São Francisco - Santa Isabel do Ivaí
+Vera Cruz - Buritis
+Cristais Paulista - Vera Cruz
+Pinheirinho do Vale - Cristais Paulista
+Sinimbu - Vera Cruz
+Vertentes - Sinimbu

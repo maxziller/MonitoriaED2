@@ -1,0 +1,17 @@
+15
+Piranguçu
+Florínea
+Muaná - Florínea
+Arealva - Muaná
+Cerqueira César - Arealva
+Serra da Raiz - Arealva
+Guarapuava - Serra da Raiz
+Brusque - Muaná
+Piranguçu - Brusque
+Vila Pavão - Florínea
+Primavera - Vila Pavão
+Itarana - Primavera
+Campo Maior - Itarana
+Caiçara - Vila Pavão
+Adelândia - Caiçara
+Eugênio de Castro - Adelândia

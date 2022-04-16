@@ -1,0 +1,38 @@
+15
+São João Batista do Glória
+Pequi
+Florianópolis
+Sorriso
+Júlio Borges
+Serrinha dos Pintos
+Iguaracy
+Guapiara
+Portalegre
+Recreio
+Olindina
+Baldim
+Presidente Vargas
+Aspásia
+Cruzeiro do Sul
+Recreio faz limite com Aspásia
+Florianópolis faz limite com Serrinha dos Pintos
+Florianópolis faz limite com Cruzeiro do Sul
+Serrinha dos Pintos faz limite com Guapiara
+Júlio Borges faz limite com Serrinha dos Pintos
+Iguaracy faz limite com Portalegre
+Pequi faz limite com Baldim
+Florianópolis faz limite com Aspásia
+Júlio Borges faz limite com Aspásia
+Florianópolis faz limite com Portalegre
+Portalegre faz limite com Presidente Vargas
+Olindina faz limite com Cruzeiro do Sul
+Júlio Borges faz limite com Baldim
+Pequi faz limite com Iguaracy
+Sorriso faz limite com Recreio
+Recreio faz limite com Baldim
+Guapiara faz limite com Olindina
+Olindina faz limite com Aspásia
+Pequi faz limite com Serrinha dos Pintos
+Iguaracy faz limite com Presidente Vargas
+Serrinha dos Pintos faz limite com Recreio
+O mapa está completo

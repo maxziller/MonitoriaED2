@@ -1,0 +1,65 @@
+63
+Timon
+Barão de Cotegipe
+São Jorge d'Oeste - Barão de Cotegipe
+Salto - São Jorge d'Oeste
+Angelândia - Salto
+Maracajá - Angelândia
+Garopaba - Maracajá
+Santaluz - Garopaba
+Marcolândia - Maracajá
+Ipiaçu - Marcolândia
+Santana do Jacaré - Salto
+Novo Horizonte do Oeste - Santana do Jacaré
+Coqueiral - Novo Horizonte do Oeste
+Buriticupu - Santana do Jacaré
+Timbé do Sul - Buriticupu
+Cabedelo - Timbé do Sul
+São Luís do Piauí - Cabedelo
+Alvorada de Minas - Timbé do Sul
+Jeceaba - São Jorge d'Oeste
+Grupiara - Jeceaba
+Mutunópolis - Grupiara
+Cassilândia - Mutunópolis
+Japaratinga - Mutunópolis
+Bento Fernandes - Jeceaba
+Buriti - Bento Fernandes
+Paraíso - Buriti
+Timóteo - Bento Fernandes
+Cerro Azul - Barão de Cotegipe
+Paulistânia - Cerro Azul
+Caravelas - Paulistânia
+Central - Caravelas
+Quatro Pontes - Central
+Timon - Quatro Pontes
+Petrolândia - Central
+Pirapó - Petrolândia
+Nhamundá - Petrolândia
+Missão Velha - Caravelas
+Muzambinho - Missão Velha
+Tavares - Muzambinho
+Juruaia - Muzambinho
+Claro dos Poções - Paulistânia
+Canelinha - Claro dos Poções
+Agudos do Sul - Canelinha
+Ninheira - Agudos do Sul
+Rancho Alegre - Claro dos Poções
+Anaurilândia - Rancho Alegre
+Guaramirim - Anaurilândia
+Carlos Barbosa - Anaurilândia
+Cabaceiras do Paraguaçu - Rancho Alegre
+Jaraguá do Sul - Cerro Azul
+Caparaó - Jaraguá do Sul
+Ceará-Mirim - Caparaó
+Niquelândia - Caparaó
+Quixeré - Niquelândia
+Pium - Jaraguá do Sul
+Dom Silvério - Pium
+Codó - Dom Silvério
+Dom Viçoso - Codó
+Poço Branco - Dom Viçoso
+Viradouro - Poço Branco
+São Miguel do Aleixo - Codó
+Pombal - Pium
+Erechim - Pombal
+Rebouças - Pombal

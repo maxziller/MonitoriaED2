@@ -1,0 +1,88 @@
+31
+Japaraíba
+Nova Mamoré
+Guaraci
+Encantado
+Monteirópolis
+Lobato
+Ferreiros
+Missal
+Ibirapuitã
+Umari
+Sátiro Dias
+Estrela d'Oeste
+Amparo da Serra
+Porto de Moz
+Alcântaras
+Tabira
+Barreira
+Nova Módica
+Lavras
+São João do Manteninha
+Barueri
+Cruzeiro do Oeste
+Cristiano Otoni
+Santa Cruz dos Milagres
+Forquilhinha
+Diamantina
+Água Santa
+Paraguaçu
+Encanto
+Palmelo
+Canarana
+Missal faz limite com Diamantina
+Cristiano Otoni faz limite com Diamantina
+Lavras faz limite com Diamantina
+Estrela d'Oeste faz limite com Palmelo
+Sátiro Dias faz limite com Barueri
+Sátiro Dias faz limite com Cruzeiro do Oeste
+Ferreiros faz limite com Barueri
+Missal faz limite com Porto de Moz
+São João do Manteninha faz limite com Canarana
+Estrela d'Oeste faz limite com Santa Cruz dos Milagres
+Alcântaras faz limite com São João do Manteninha
+Umari faz limite com Diamantina
+Barueri faz limite com Forquilhinha
+Ibirapuitã faz limite com Diamantina
+Missal faz limite com Ibirapuitã
+Forquilhinha faz limite com Canarana
+Porto de Moz faz limite com Barreira
+Missal faz limite com Amparo da Serra
+Cruzeiro do Oeste faz limite com Encanto
+Nova Mamoré faz limite com Encanto
+Cristiano Otoni faz limite com Santa Cruz dos Milagres
+Sátiro Dias faz limite com Santa Cruz dos Milagres
+Ibirapuitã faz limite com São João do Manteninha
+Umari faz limite com Cristiano Otoni
+Guaraci faz limite com Monteirópolis
+Estrela d'Oeste faz limite com Diamantina
+Nova Módica faz limite com Forquilhinha
+Ibirapuitã faz limite com Palmelo
+Encantado faz limite com Monteirópolis
+São João do Manteninha faz limite com Encanto
+Nova Mamoré faz limite com Nova Módica
+Nova Mamoré faz limite com Estrela d'Oeste
+Umari faz limite com Tabira
+Monteirópolis faz limite com Ibirapuitã
+Porto de Moz faz limite com Água Santa
+Lobato faz limite com Ibirapuitã
+Barueri faz limite com Cristiano Otoni
+Monteirópolis faz limite com Santa Cruz dos Milagres
+São João do Manteninha faz limite com Santa Cruz dos Milagres
+Barreira faz limite com Santa Cruz dos Milagres
+Barreira faz limite com São João do Manteninha
+Missal faz limite com Estrela d'Oeste
+Umari faz limite com Nova Módica
+Monteirópolis faz limite com Água Santa
+Lobato faz limite com Amparo da Serra
+Umari faz limite com Forquilhinha
+Cruzeiro do Oeste faz limite com Diamantina
+Lobato faz limite com Barreira
+Barueri faz limite com Paraguaçu
+Alcântaras faz limite com Encanto
+Encanto faz limite com Canarana
+Lobato faz limite com Forquilhinha
+Ibirapuitã faz limite com Alcântaras
+Lavras faz limite com Santa Cruz dos Milagres
+Monteirópolis faz limite com Estrela d'Oeste
+O mapa está completo

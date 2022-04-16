@@ -1,0 +1,245 @@
+63
+Bom Progresso
+José de Freitas - x: 656 y: 715
+Lagoa da Confusão - x: 238 y: 290
+Paranacity - x: 572 y: 326
+Extrema - x: 130 y: 938
+Campanário - x: 964 y: 854
+Chiador - x: 414 y: 970
+Palminópolis - x: 145 y: 435
+Correia Pinto - x: 913 y: 464
+Olho d'Água do Casado - x: 294 y: 145
+Aurora do Pará - x: 709 y: 327
+Platina - x: 834 y: 901
+Bernardino de Campos - x: 133 y: 286
+Remanso - x: 88 y: 290
+Porto União - x: 96 y: 176
+Santa Ernestina - x: 36 y: 400
+Pinhal - x: 604 y: 707
+Vera Cruz do Oeste - x: 21 y: 672
+Braço do Trombudo - x: 814 y: 820
+Cambuci - x: 403 y: 34
+Conceição da Barra - x: 83 y: 166
+Serra da Raiz - x: 437 y: 984
+Córrego Novo - x: 172 y: 767
+Nova Independência - x: 691 y: 601
+Selbach - x: 154 y: 440
+Capitão Andrade - x: 827 y: 349
+Terezópolis de Goiás - x: 603 y: 165
+Bocaina de Minas - x: 912 y: 944
+Tonantins - x: 440 y: 897
+Vilhena - x: 231 y: 352
+Muqui - x: 673 y: 852
+Hulha Negra - x: 855 y: 686
+Porto Rico - x: 716 y: 561
+Graça - x: 0 y: 549
+Maribondo - x: 945 y: 120
+Guatapará - x: 905 y: 406
+Brejolândia - x: 676 y: 489
+Guapé - x: 127 y: 255
+Schroeder - x: 522 y: 254
+São Felipe d'Oeste - x: 438 y: 862
+Bom Progresso - x: 678 y: 812
+Palmeirais - x: 799 y: 103
+Pequeri - x: 477 y: 312
+Vespasiano - x: 720 y: 444
+Cerqueira César - x: 264 y: 543
+Água Boa - x: 790 y: 334
+Matão - x: 208 y: 389
+Vera Mendes - x: 867 y: 303
+Porto Alegre do Piauí - x: 609 y: 740
+Tacima - x: 146 y: 133
+Cerro Azul - x: 328 y: 409
+Ulianópolis - x: 192 y: 785
+Vanini - x: 911 y: 285
+Mariana Pimentel - x: 163 y: 646
+União de Minas - x: 668 y: 673
+Luzilândia - x: 61 y: 65
+Vale Real - x: 993 y: 739
+Adrianópolis - x: 33 y: 316
+Jericó - x: 628 y: 850
+Papanduva - x: 230 y: 179
+Castilho - x: 544 y: 344
+Chaves - x: 451 y: 85
+Restinga Sêca - x: 329 y: 766
+Cedro de São João - x: 13 y: 300
+José de Freitas tem estrada para Vilhena
+José de Freitas tem estrada para Conceição da Barra
+Tonantins tem estrada para São Felipe d'Oeste
+Guatapará tem estrada para Vanini
+Maribondo tem estrada para Vanini
+José de Freitas tem estrada para Olho d'Água do Casado
+Matão tem estrada para Cerro Azul
+José de Freitas tem estrada para Bom Progresso
+José de Freitas tem estrada para Tonantins
+Pequeri tem estrada para Cerro Azul
+Palminópolis tem estrada para Selbach
+José de Freitas tem estrada para Ulianópolis
+Vera Cruz do Oeste tem estrada para Mariana Pimentel
+Lagoa da Confusão tem estrada para Matão
+Tacima tem estrada para Luzilândia
+Schroeder tem estrada para Castilho
+Paranacity tem estrada para Aurora do Pará
+José de Freitas tem estrada para Guapé
+José de Freitas tem estrada para Porto União
+José de Freitas tem estrada para Castilho
+Lagoa da Confusão tem estrada para Bernardino de Campos
+José de Freitas tem estrada para Serra da Raiz
+Ulianópolis tem estrada para Mariana Pimentel
+Lagoa da Confusão tem estrada para Vilhena
+Selbach tem estrada para Matão
+Hulha Negra tem estrada para Vale Real
+Extrema tem estrada para Córrego Novo
+Capitão Andrade tem estrada para Água Boa
+Palmeirais tem estrada para Vera Mendes
+José de Freitas tem estrada para Vale Real
+Nova Independência tem estrada para Hulha Negra
+Conceição da Barra tem estrada para Guapé
+Vilhena tem estrada para Cerro Azul
+José de Freitas tem estrada para Bernardino de Campos
+Chiador tem estrada para Tonantins
+José de Freitas tem estrada para Muqui
+José de Freitas tem estrada para Jericó
+Paranacity tem estrada para Castilho
+Extrema tem estrada para Restinga Sêca
+Pinhal tem estrada para Porto Alegre do Piauí
+Selbach tem estrada para Vilhena
+José de Freitas tem estrada para Terezópolis de Goiás
+Extrema tem estrada para Chiador
+Correia Pinto tem estrada para Capitão Andrade
+Paranacity tem estrada para Schroeder
+Braço do Trombudo tem estrada para Vale Real
+José de Freitas tem estrada para Vespasiano
+Cerqueira César tem estrada para Cerro Azul
+Chiador tem estrada para São Felipe d'Oeste
+José de Freitas tem estrada para Papanduva
+José de Freitas tem estrada para Pequeri
+Porto União tem estrada para Tacima
+Guatapará tem estrada para Vera Mendes
+Santa Ernestina tem estrada para Cedro de São João
+Pequeri tem estrada para Castilho
+Aurora do Pará tem estrada para Água Boa
+José de Freitas tem estrada para Bocaina de Minas
+Palminópolis tem estrada para Matão
+Extrema tem estrada para Ulianópolis
+José de Freitas tem estrada para Aurora do Pará
+José de Freitas tem estrada para Cambuci
+Remanso tem estrada para Guapé
+Muqui tem estrada para Jericó
+José de Freitas tem estrada para Graça
+Paranacity tem estrada para Pequeri
+Correia Pinto tem estrada para Vera Mendes
+Guapé tem estrada para Papanduva
+José de Freitas tem estrada para Porto Alegre do Piauí
+Conceição da Barra tem estrada para Luzilândia
+José de Freitas tem estrada para Tacima
+José de Freitas tem estrada para Cerqueira César
+Cambuci tem estrada para Chaves
+Remanso tem estrada para Cedro de São João
+Chiador tem estrada para Serra da Raiz
+José de Freitas tem estrada para Correia Pinto
+Muqui tem estrada para Porto Alegre do Piauí
+José de Freitas tem estrada para Córrego Novo
+José de Freitas tem estrada para Lagoa da Confusão
+Lagoa da Confusão tem estrada para Papanduva
+Campanário tem estrada para Vale Real
+Porto Alegre do Piauí tem estrada para Jericó
+Olho d'Água do Casado tem estrada para Papanduva
+Braço do Trombudo tem estrada para Bocaina de Minas
+José de Freitas tem estrada para Restinga Sêca
+Vilhena tem estrada para Matão
+Nova Independência tem estrada para Brejolândia
+Pinhal tem estrada para União de Minas
+Bernardino de Campos tem estrada para Guapé
+Córrego Novo tem estrada para Mariana Pimentel
+Conceição da Barra tem estrada para Tacima
+José de Freitas tem estrada para Remanso
+José de Freitas tem estrada para Guatapará
+Palminópolis tem estrada para Graça
+Vera Mendes tem estrada para Vanini
+José de Freitas tem estrada para Chiador
+Nova Independência tem estrada para Porto Rico
+Maribondo tem estrada para Vera Mendes
+Porto Alegre do Piauí tem estrada para União de Minas
+Ulianópolis tem estrada para Restinga Sêca
+José de Freitas tem estrada para Santa Ernestina
+Porto União tem estrada para Conceição da Barra
+Capitão Andrade tem estrada para Vanini
+José de Freitas tem estrada para Palmeirais
+Vera Cruz do Oeste tem estrada para Graça
+José de Freitas tem estrada para Brejolândia
+José de Freitas tem estrada para Vera Cruz do Oeste
+Selbach tem estrada para Cerqueira César
+Nova Independência tem estrada para União de Minas
+Córrego Novo tem estrada para Restinga Sêca
+José de Freitas tem estrada para Vera Mendes
+Schroeder tem estrada para Pequeri
+José de Freitas tem estrada para Mariana Pimentel
+José de Freitas tem estrada para Nova Independência
+José de Freitas tem estrada para Cerro Azul
+Serra da Raiz tem estrada para São Felipe d'Oeste
+Adrianópolis tem estrada para Cedro de São João
+José de Freitas tem estrada para Capitão Andrade
+José de Freitas tem estrada para Campanário
+José de Freitas tem estrada para Adrianópolis
+José de Freitas tem estrada para Chaves
+Muqui tem estrada para Bom Progresso
+Remanso tem estrada para Adrianópolis
+José de Freitas tem estrada para Pinhal
+José de Freitas tem estrada para Porto Rico
+Terezópolis de Goiás tem estrada para Castilho
+Platina tem estrada para Bocaina de Minas
+José de Freitas tem estrada para Água Boa
+José de Freitas tem estrada para Hulha Negra
+Capitão Andrade tem estrada para Vera Mendes
+Capitão Andrade tem estrada para Guatapará
+Bom Progresso tem estrada para Jericó
+São Felipe d'Oeste tem estrada para Restinga Sêca
+José de Freitas tem estrada para Vanini
+Serra da Raiz tem estrada para Tonantins
+Braço do Trombudo tem estrada para Bom Progresso
+Bernardino de Campos tem estrada para Remanso
+Aurora do Pará tem estrada para Capitão Andrade
+Olho d'Água do Casado tem estrada para Tacima
+Porto Rico tem estrada para Brejolândia
+José de Freitas tem estrada para União de Minas
+Vera Cruz do Oeste tem estrada para Córrego Novo
+José de Freitas tem estrada para Extrema
+José de Freitas tem estrada para Braço do Trombudo
+Água Boa tem estrada para Vera Mendes
+José de Freitas tem estrada para Paranacity
+Correia Pinto tem estrada para Guatapará
+Porto União tem estrada para Luzilândia
+Aurora do Pará tem estrada para Castilho
+José de Freitas tem estrada para Cedro de São João
+José de Freitas tem estrada para Platina
+Campanário tem estrada para Bocaina de Minas
+Olho d'Água do Casado tem estrada para Chaves
+Terezópolis de Goiás tem estrada para Schroeder
+Brejolândia tem estrada para Vespasiano
+Braço do Trombudo tem estrada para Hulha Negra
+Terezópolis de Goiás tem estrada para Palmeirais
+Bernardino de Campos tem estrada para Adrianópolis
+Palminópolis tem estrada para Santa Ernestina
+Cambuci tem estrada para Papanduva
+Cerqueira César tem estrada para Mariana Pimentel
+Platina tem estrada para Braço do Trombudo
+José de Freitas tem estrada para Selbach
+Tacima tem estrada para Papanduva
+Porto Rico tem estrada para Vespasiano
+Maribondo tem estrada para Palmeirais
+Porto União tem estrada para Guapé
+Córrego Novo tem estrada para Ulianópolis
+José de Freitas tem estrada para Palminópolis
+Aurora do Pará tem estrada para Vespasiano
+José de Freitas tem estrada para Matão
+José de Freitas tem estrada para São Felipe d'Oeste
+José de Freitas tem estrada para Luzilândia
+José de Freitas tem estrada para Schroeder
+José de Freitas tem estrada para Maribondo
+Olho d'Água do Casado tem estrada para Cambuci
+Campanário tem estrada para Platina
+Santa Ernestina tem estrada para Adrianópolis
+Santa Ernestina tem estrada para Graça
+Terezópolis de Goiás tem estrada para Chaves
+Acabaram as estradas

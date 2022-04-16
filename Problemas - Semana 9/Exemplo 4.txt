@@ -1,0 +1,497 @@
+127
+Campo Azul
+Planura - x: 288 y: 936
+Mantena - x: 153 y: 649
+Serrita - x: 66 y: 304
+Ourolândia - x: 499 y: 400
+Tailândia - x: 812 y: 801
+Muliterno - x: 128 y: 484
+Santa Maria Madalena - x: 819 y: 867
+Afonso Bezerra - x: 634 y: 240
+Nova Iorque - x: 282 y: 888
+Baianópolis - x: 971 y: 952
+Santa Maria do Cambucá - x: 324 y: 592
+Desterro de Entre Rios - x: 654 y: 396
+Ituverava - x: 809 y: 795
+Jesúpolis - x: 590 y: 483
+Saboeiro - x: 53 y: 804
+São Jerônimo - x: 663 y: 675
+Colinas do Tocantins - x: 165 y: 387
+Jaboticatubas - x: 54 y: 616
+Guajará-Mirim - x: 383 y: 143
+Apiacás - x: 475 y: 628
+Lagoa dos Gatos - x: 584 y: 142
+São Domingos do Capim - x: 226 y: 754
+Saltinho - x: 799 y: 18
+Monsenhor Tabosa - x: 584 y: 598
+Ipuiuna - x: 385 y: 266
+Cristalândia - x: 550 y: 291
+Lagoinha - x: 203 y: 17
+Itaqui - x: 494 y: 113
+Campo Azul - x: 747 y: 54
+Arabutã - x: 932 y: 809
+Patos do Piauí - x: 903 y: 766
+Esmeralda - x: 457 y: 779
+Arataca - x: 525 y: 312
+Barra d'Alcântara - x: 880 y: 683
+São Jerônimo da Serra - x: 191 y: 228
+Dores do Turvo - x: 346 y: 179
+Alto Paraná - x: 44 y: 384
+Rio Acima - x: 795 y: 995
+José Bonifácio - x: 474 y: 167
+Bragança Paulista - x: 272 y: 624
+São José do Brejo do Cruz - x: 857 y: 978
+Córrego Novo - x: 263 y: 526
+Camaçari - x: 335 y: 388
+Taquaraçu de Minas - x: 359 y: 437
+São Bernardino - x: 361 y: 854
+Goianá - x: 293 y: 930
+Ruy Barbosa - x: 412 y: 759
+Frutal - x: 375 y: 834
+Plácido de Castro - x: 279 y: 672
+Penalva - x: 617 y: 441
+Barrinha - x: 603 y: 288
+Itapebi - x: 557 y: 308
+Itagi - x: 818 y: 94
+Votorantim - x: 666 y: 356
+Cachoeira de Goiás - x: 61 y: 814
+Florínea - x: 33 y: 584
+Babaçulândia - x: 436 y: 812
+Caraúbas do Piauí - x: 295 y: 44
+Serranópolis - x: 239 y: 857
+Dias d'Ávila - x: 335 y: 9
+Correntes - x: 942 y: 901
+Deodápolis - x: 364 y: 933
+Alto Boa Vista - x: 67 y: 512
+Ibirarema - x: 452 y: 56
+Limeira - x: 662 y: 228
+Montadas - x: 334 y: 745
+Sobrado - x: 85 y: 902
+Cambuí - x: 576 y: 887
+Lagoa Salgada - x: 108 y: 574
+Areal - x: 635 y: 644
+Vera Mendes - x: 269 y: 757
+São Sebastião de Lagoa de Roça - x: 421 y: 740
+Duartina - x: 747 y: 237
+Maruim - x: 999 y: 791
+Lagoa Vermelha - x: 305 y: 126
+Surubim - x: 390 y: 989
+Bernardo do Mearim - x: 658 y: 550
+Coari - x: 370 y: 73
+Santa Amélia - x: 129 y: 641
+Talismã - x: 863 y: 724
+Erval Seco - x: 549 y: 1000
+Araguanã - x: 210 y: 526
+Piripiri - x: 16 y: 924
+Carmo do Paranaíba - x: 194 y: 120
+Viamão - x: 277 y: 65
+Pirajuba - x: 853 y: 717
+Coronel João Sá - x: 930 y: 644
+Vilhena - x: 269 y: 394
+Breves - x: 251 y: 644
+Alpestre - x: 475 y: 494
+Tanque d'Arca - x: 754 y: 18
+Campo Limpo de Goiás - x: 664 y: 422
+Pirapora do Bom Jesus - x: 973 y: 787
+Fênix - x: 328 y: 937
+Pilões - x: 512 y: 973
+Camocim - x: 51 y: 522
+Muitos Capões - x: 336 y: 988
+Barão - x: 582 y: 808
+João Câmara - x: 620 y: 790
+Morro Agudo de Goiás - x: 717 y: 268
+Tracuateua - x: 831 y: 306
+São Raimundo Nonato - x: 639 y: 276
+São Tiago - x: 748 y: 704
+Duas Estradas - x: 963 y: 173
+Maués - x: 305 y: 564
+Pedregulho - x: 249 y: 436
+Senhora do Porto - x: 819 y: 366
+Treviso - x: 636 y: 303
+Ritápolis - x: 462 y: 356
+Santa Branca - x: 305 y: 349
+Morro Redondo - x: 374 y: 70
+Tomar do Geru - x: 288 y: 160
+Ibiporã - x: 892 y: 895
+Jerumenha - x: 818 y: 731
+Nísia Floresta - x: 495 y: 128
+Santo André - x: 451 y: 455
+Pirapora - x: 27 y: 768
+Tacaratu - x: 55 y: 650
+Monte Alegre do Sul - x: 329 y: 752
+Dois Irmãos do Tocantins - x: 582 y: 925
+Roque Gonzales - x: 586 y: 499
+Matina - x: 921 y: 705
+Nova Alvorada - x: 252 y: 425
+Camocim de São Félix - x: 891 y: 562
+Palmeira - x: 691 y: 497
+Carlos Chagas - x: 413 y: 898
+Frei Inocêncio - x: 358 y: 681
+Planura tem estrada para Jesúpolis
+Cristalândia tem estrada para Barrinha
+São Jerônimo tem estrada para João Câmara
+Planura tem estrada para Ourolândia
+Planura tem estrada para Itaqui
+Jesúpolis tem estrada para Alpestre
+Coronel João Sá tem estrada para Camocim de São Félix
+Planura tem estrada para Arabutã
+Bragança Paulista tem estrada para Breves
+Lagoinha tem estrada para Viamão
+Santa Branca tem estrada para Nova Alvorada
+Planura tem estrada para Córrego Novo
+Barra d'Alcântara tem estrada para Coronel João Sá
+Barra d'Alcântara tem estrada para Talismã
+Apiacás tem estrada para Frei Inocêncio
+São Jerônimo da Serra tem estrada para Carmo do Paranaíba
+Arataca tem estrada para Itapebi
+Caraúbas do Piauí tem estrada para Viamão
+Planura tem estrada para Itagi
+Frutal tem estrada para Carlos Chagas
+Surubim tem estrada para Fênix
+Santa Maria do Cambucá tem estrada para Maués
+Planura tem estrada para Cachoeira de Goiás
+Saltinho tem estrada para Campo Azul
+Planura tem estrada para Desterro de Entre Rios
+Barão tem estrada para João Câmara
+Córrego Novo tem estrada para Araguanã
+Ipuiuna tem estrada para Ritápolis
+Vera Mendes tem estrada para Monte Alegre do Sul
+Planura tem estrada para Breves
+Planura tem estrada para Dias d'Ávila
+Planura tem estrada para Coronel João Sá
+Planura tem estrada para Camocim
+Planura tem estrada para Tracuateua
+Planura tem estrada para Palmeira
+Talismã tem estrada para Pirajuba
+Barra d'Alcântara tem estrada para Matina
+Caraúbas do Piauí tem estrada para Coari
+Planura tem estrada para Carlos Chagas
+Planura tem estrada para Pilões
+Bernardo do Mearim tem estrada para Palmeira
+Rio Acima tem estrada para São José do Brejo do Cruz
+Planura tem estrada para São Sebastião de Lagoa de Roça
+Bragança Paulista tem estrada para Maués
+Planura tem estrada para Penalva
+Vilhena tem estrada para Santa Branca
+Saboeiro tem estrada para Sobrado
+Dores do Turvo tem estrada para Lagoa Vermelha
+Duartina tem estrada para Duas Estradas
+Lagoa dos Gatos tem estrada para Nísia Floresta
+São Bernardino tem estrada para Carlos Chagas
+Planura tem estrada para Muitos Capões
+Cambuí tem estrada para Barão
+Ipuiuna tem estrada para Dores do Turvo
+Camaçari tem estrada para Nova Alvorada
+Planura tem estrada para Santa Branca
+Erval Seco tem estrada para Pilões
+Ibirarema tem estrada para Morro Redondo
+Montadas tem estrada para Frei Inocêncio
+Surubim tem estrada para Muitos Capões
+Planura tem estrada para Maués
+Esmeralda tem estrada para Ruy Barbosa
+Planura tem estrada para Votorantim
+Planura tem estrada para Morro Agudo de Goiás
+Planura tem estrada para Cristalândia
+Planura tem estrada para Lagoa dos Gatos
+Planura tem estrada para Plácido de Castro
+Planura tem estrada para Bragança Paulista
+São Jerônimo da Serra tem estrada para Tomar do Geru
+Lagoa dos Gatos tem estrada para Itaqui
+Planura tem estrada para Talismã
+Nova Iorque tem estrada para Serranópolis
+Dias d'Ávila tem estrada para Coari
+Barrinha tem estrada para Treviso
+Duartina tem estrada para Tracuateua
+Planura tem estrada para Nísia Floresta
+Fênix tem estrada para Muitos Capões
+Planura tem estrada para Araguanã
+Planura tem estrada para Pirapora
+Planura tem estrada para Baianópolis
+Santa Maria do Cambucá tem estrada para Bragança Paulista
+Muliterno tem estrada para Colinas do Tocantins
+Planura tem estrada para Morro Redondo
+Planura tem estrada para Sobrado
+Vilhena tem estrada para Nova Alvorada
+Ruy Barbosa tem estrada para São Sebastião de Lagoa de Roça
+Ourolândia tem estrada para Santo André
+Santa Maria do Cambucá tem estrada para Córrego Novo
+São José do Brejo do Cruz tem estrada para Correntes
+Planura tem estrada para João Câmara
+Camaçari tem estrada para Santa Branca
+Planura tem estrada para Pirajuba
+Planura tem estrada para Pirapora do Bom Jesus
+Planura tem estrada para Serrita
+Morro Agudo de Goiás tem estrada para Tracuateua
+Planura tem estrada para Camaçari
+Planura tem estrada para Nova Alvorada
+Coronel João Sá tem estrada para Matina
+Planura tem estrada para Serranópolis
+Baianópolis tem estrada para São José do Brejo do Cruz
+Jaboticatubas tem estrada para Lagoa Salgada
+Alpestre tem estrada para Roque Gonzales
+Dores do Turvo tem estrada para Tomar do Geru
+Pedregulho tem estrada para Nova Alvorada
+Planura tem estrada para Barra d'Alcântara
+Arabutã tem estrada para Correntes
+Cachoeira de Goiás tem estrada para Sobrado
+Itaqui tem estrada para Nísia Floresta
+Planura tem estrada para São Tiago
+Deodápolis tem estrada para Carlos Chagas
+Colinas do Tocantins tem estrada para Pedregulho
+Lagoinha tem estrada para Caraúbas do Piauí
+Planura tem estrada para Maruim
+Arabutã tem estrada para Pirapora do Bom Jesus
+Planura tem estrada para Tacaratu
+Vilhena tem estrada para Pedregulho
+Santa Maria Madalena tem estrada para Rio Acima
+Morro Agudo de Goiás tem estrada para Senhora do Porto
+Planura tem estrada para Limeira
+Arabutã tem estrada para Maruim
+Planura tem estrada para Lagoinha
+Babaçulândia tem estrada para São Sebastião de Lagoa de Roça
+Ourolândia tem estrada para Arataca
+Planura tem estrada para Esmeralda
+Muliterno tem estrada para Camocim
+Planura tem estrada para Lagoa Salgada
+Plácido de Castro tem estrada para Frei Inocêncio
+São José do Brejo do Cruz tem estrada para Ibiporã
+Saboeiro tem estrada para Cachoeira de Goiás
+Matina tem estrada para Camocim de São Félix
+Penalva tem estrada para Campo Limpo de Goiás
+Plácido de Castro tem estrada para Breves
+Planura tem estrada para Ipuiuna
+Bernardo do Mearim tem estrada para Roque Gonzales
+Campo Azul tem estrada para Itagi
+Florínea tem estrada para Tacaratu
+Planura tem estrada para São José do Brejo do Cruz
+Ibirarema tem estrada para Nísia Floresta
+Córrego Novo tem estrada para Pedregulho
+Colinas do Tocantins tem estrada para Nova Alvorada
+Goianá tem estrada para Serranópolis
+Ipuiuna tem estrada para Santa Branca
+São Raimundo Nonato tem estrada para Treviso
+Planura tem estrada para Patos do Piauí
+Mantena tem estrada para Breves
+Planura tem estrada para José Bonifácio
+Planura tem estrada para São Domingos do Capim
+Santa Maria Madalena tem estrada para Ituverava
+Afonso Bezerra tem estrada para Lagoa dos Gatos
+Deodápolis tem estrada para Surubim
+Saboeiro tem estrada para Pirapora
+Pirajuba tem estrada para Jerumenha
+Planura tem estrada para Ritápolis
+Viamão tem estrada para Tomar do Geru
+Planura tem estrada para Guajará-Mirim
+Monsenhor Tabosa tem estrada para Areal
+Ibirarema tem estrada para Coari
+Planura tem estrada para Matina
+Cristalândia tem estrada para Arataca
+Desterro de Entre Rios tem estrada para Votorantim
+São Domingos do Capim tem estrada para Vera Mendes
+Planura tem estrada para Itapebi
+Camaçari tem estrada para Vilhena
+Planura tem estrada para Jerumenha
+Planura tem estrada para Goianá
+Itagi tem estrada para Tanque d'Arca
+Alto Paraná tem estrada para Alto Boa Vista
+Córrego Novo tem estrada para Maués
+Santa Amélia tem estrada para Tacaratu
+Planura tem estrada para Roque Gonzales
+Pilões tem estrada para Dois Irmãos do Tocantins
+Carmo do Paranaíba tem estrada para Viamão
+São Domingos do Capim tem estrada para Monte Alegre do Sul
+Planura tem estrada para Dois Irmãos do Tocantins
+Barrinha tem estrada para Itapebi
+Planura tem estrada para Tomar do Geru
+Deodápolis tem estrada para Muitos Capões
+Nova Iorque tem estrada para Goianá
+Barão tem estrada para Dois Irmãos do Tocantins
+Planura tem estrada para Campo Limpo de Goiás
+Erval Seco tem estrada para Dois Irmãos do Tocantins
+Mantena tem estrada para Tacaratu
+Monte Alegre do Sul tem estrada para Frei Inocêncio
+Jaboticatubas tem estrada para Florínea
+Ourolândia tem estrada para Ritápolis
+Itaqui tem estrada para Ibirarema
+Guajará-Mirim tem estrada para Coari
+Planura tem estrada para Monsenhor Tabosa
+Planura tem estrada para Ibiporã
+Planura tem estrada para Alpestre
+Lagoa Salgada tem estrada para Santa Amélia
+Planura tem estrada para Muliterno
+Dias d'Ávila tem estrada para Morro Redondo
+São Tiago tem estrada para Jerumenha
+Talismã tem estrada para Matina
+Apiacás tem estrada para São Sebastião de Lagoa de Roça
+Planura tem estrada para Dores do Turvo
+Planura tem estrada para Arataca
+Jesúpolis tem estrada para Penalva
+Esmeralda tem estrada para São Sebastião de Lagoa de Roça
+Votorantim tem estrada para Campo Limpo de Goiás
+Morro Agudo de Goiás tem estrada para São Raimundo Nonato
+Areal tem estrada para Bernardo do Mearim
+Lagoa Vermelha tem estrada para Viamão
+Campo Limpo de Goiás tem estrada para Palmeira
+Planura tem estrada para Barão
+Planura tem estrada para São Raimundo Nonato
+Planura tem estrada para Camocim de São Félix
+Planura tem estrada para Montadas
+Patos do Piauí tem estrada para Pirapora do Bom Jesus
+São Bernardino tem estrada para Deodápolis
+Baianópolis tem estrada para Correntes
+Planura tem estrada para Deodápolis
+Planura tem estrada para Areal
+Tailândia tem estrada para Santa Maria Madalena
+Barra d'Alcântara tem estrada para Pirajuba
+Planura tem estrada para Duartina
+Ritápolis tem estrada para Santo André
+Planura tem estrada para Santo André
+Itaqui tem estrada para José Bonifácio
+Cachoeira de Goiás tem estrada para Piripiri
+Afonso Bezerra tem estrada para Limeira
+Itagi tem estrada para Duas Estradas
+Bragança Paulista tem estrada para Plácido de Castro
+Pirajuba tem estrada para São Tiago
+Monsenhor Tabosa tem estrada para Bernardo do Mearim
+Planura tem estrada para São Jerônimo da Serra
+Planura tem estrada para São Jerônimo
+Planura tem estrada para Babaçulândia
+Pirapora tem estrada para Tacaratu
+Limeira tem estrada para São Raimundo Nonato
+Votorantim tem estrada para Treviso
+Mantena tem estrada para Lagoa Salgada
+Jaboticatubas tem estrada para Tacaratu
+Planura tem estrada para Vilhena
+Planura tem estrada para Barrinha
+Ituverava tem estrada para Jerumenha
+Carmo do Paranaíba tem estrada para Tomar do Geru
+Planura tem estrada para Duas Estradas
+Apiacás tem estrada para Monsenhor Tabosa
+Planura tem estrada para Cambuí
+Planura tem estrada para Santa Amélia
+Desterro de Entre Rios tem estrada para Campo Limpo de Goiás
+Cambuí tem estrada para Erval Seco
+Goianá tem estrada para Fênix
+Tracuateua tem estrada para Senhora do Porto
+Planura tem estrada para Carmo do Paranaíba
+Planura tem estrada para Campo Azul
+Guajará-Mirim tem estrada para Dores do Turvo
+Planura tem estrada para Piripiri
+Planura tem estrada para Caraúbas do Piauí
+Desterro de Entre Rios tem estrada para Penalva
+Planura tem estrada para Erval Seco
+São Jerônimo tem estrada para Areal
+Saltinho tem estrada para Itagi
+Planura tem estrada para Santa Maria Madalena
+Jaboticatubas tem estrada para Santa Amélia
+Rio Acima tem estrada para Ibiporã
+Muliterno tem estrada para Alto Boa Vista
+Lagoa Salgada tem estrada para Camocim
+Jesúpolis tem estrada para Bernardo do Mearim
+Planura tem estrada para Saboeiro
+Planura tem estrada para Taquaraçu de Minas
+Sobrado tem estrada para Piripiri
+Planura tem estrada para Ruy Barbosa
+Patos do Piauí tem estrada para Maruim
+Planura tem estrada para Monte Alegre do Sul
+Patos do Piauí tem estrada para Matina
+Cambuí tem estrada para João Câmara
+José Bonifácio tem estrada para Nísia Floresta
+Planura tem estrada para Frutal
+Alto Boa Vista tem estrada para Lagoa Salgada
+Camaçari tem estrada para Taquaraçu de Minas
+Cambuí tem estrada para Pilões
+Afonso Bezerra tem estrada para Barrinha
+Guajará-Mirim tem estrada para José Bonifácio
+Planura tem estrada para Correntes
+Planura tem estrada para Florínea
+Maruim tem estrada para Pirapora do Bom Jesus
+Duartina tem estrada para Senhora do Porto
+Planura tem estrada para Lagoa Vermelha
+Barrinha tem estrada para São Raimundo Nonato
+Araguanã tem estrada para Pedregulho
+Alpestre tem estrada para Santo André
+Planura tem estrada para Coari
+Coari tem estrada para Morro Redondo
+Saboeiro tem estrada para Piripiri
+Penalva tem estrada para Roque Gonzales
+Planura tem estrada para Alto Boa Vista
+Planura tem estrada para Tailândia
+Ruy Barbosa tem estrada para Babaçulândia
+Duartina tem estrada para Morro Agudo de Goiás
+São Jerônimo da Serra tem estrada para Lagoa Vermelha
+Planura tem estrada para Ibirarema
+Saltinho tem estrada para Tanque d'Arca
+Caraúbas do Piauí tem estrada para Dias d'Ávila
+Baianópolis tem estrada para Ibiporã
+Talismã tem estrada para Jerumenha
+Planura tem estrada para Treviso
+Cachoeira de Goiás tem estrada para Pirapora
+São Jerônimo tem estrada para Monsenhor Tabosa
+Tailândia tem estrada para Ituverava
+Ourolândia tem estrada para Alpestre
+Patos do Piauí tem estrada para Talismã
+Planura tem estrada para Frei Inocêncio
+Planura tem estrada para Jaboticatubas
+Planura tem estrada para Santa Maria do Cambucá
+Planura tem estrada para Fênix
+Tailândia tem estrada para Jerumenha
+Planura tem estrada para Senhora do Porto
+Guajará-Mirim tem estrada para Morro Redondo
+Barra d'Alcântara tem estrada para Camocim de São Félix
+Planura tem estrada para São Bernardino
+Itapebi tem estrada para Ritápolis
+Santa Maria Madalena tem estrada para Ibiporã
+Jesúpolis tem estrada para Roque Gonzales
+Muliterno tem estrada para Araguanã
+Tracuateua tem estrada para Duas Estradas
+Taquaraçu de Minas tem estrada para Vilhena
+Planura tem estrada para Surubim
+São Jerônimo tem estrada para São Tiago
+Planura tem estrada para Ituverava
+Arataca tem estrada para Ritápolis
+Alto Boa Vista tem estrada para Camocim
+Serrita tem estrada para Colinas do Tocantins
+Planura tem estrada para Tanque d'Arca
+Serrita tem estrada para São Jerônimo da Serra
+Planura tem estrada para Pedregulho
+Planura tem estrada para Afonso Bezerra
+Taquaraçu de Minas tem estrada para Santo André
+Campo Azul tem estrada para Tanque d'Arca
+Planura tem estrada para Bernardo do Mearim
+Dias d'Ávila tem estrada para Viamão
+Planura tem estrada para Rio Acima
+Planura tem estrada para Viamão
+Limeira tem estrada para Duartina
+Planura tem estrada para Saltinho
+Deodápolis tem estrada para Fênix
+Planura tem estrada para Apiacás
+Correntes tem estrada para Ibiporã
+Muliterno tem estrada para Alto Paraná
+Penalva tem estrada para Palmeira
+Montadas tem estrada para Vera Mendes
+Cristalândia tem estrada para Itapebi
+Esmeralda tem estrada para Babaçulândia
+Planura tem estrada para Nova Iorque
+São Bernardino tem estrada para Frutal
+Lagoinha tem estrada para Carmo do Paranaíba
+Lagoa Vermelha tem estrada para Tomar do Geru
+Florínea tem estrada para Camocim
+São Domingos do Capim tem estrada para Plácido de Castro
+Colinas do Tocantins tem estrada para Alto Paraná
+Serrita tem estrada para Muliterno
+Montadas tem estrada para Monte Alegre do Sul
+Monsenhor Tabosa tem estrada para Roque Gonzales
+Planura tem estrada para Colinas do Tocantins
+Serrita tem estrada para Alto Paraná
+Afonso Bezerra tem estrada para São Raimundo Nonato
+Arabutã tem estrada para Patos do Piauí
+Frutal tem estrada para Babaçulândia
+Planura tem estrada para Mantena
+Planura tem estrada para Vera Mendes
+Santa Maria do Cambucá tem estrada para Breves
+Cambuí tem estrada para Dois Irmãos do Tocantins
+Mantena tem estrada para Santa Amélia
+Limeira tem estrada para Morro Agudo de Goiás
+Planura tem estrada para Alto Paraná
+Acabaram as estradas

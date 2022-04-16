@@ -1,0 +1,129 @@
+127
+Taquara
+Pompeia
+Taquara - Pompeia
+Goianésia - Taquara
+Diogo de Vasconcelos - Goianésia
+Anagé - Diogo de Vasconcelos
+Iracema - Anagé
+Vila Nova dos Martírios - Iracema
+Rio do Antônio - Iracema
+Lagoa Bonita do Sul - Anagé
+Sabinópolis - Diogo de Vasconcelos
+Enéas Marques - Sabinópolis
+Pindorama do Tocantins - Enéas Marques
+São José do Sul - Sabinópolis
+Monte Santo do Tocantins - São José do Sul
+Águas de São Pedro - Goianésia
+Itaí - Águas de São Pedro
+Santos - Itaí
+Belém de Maria - Santos
+Roteiro - Santos
+Carazinho - Roteiro
+Confresa - Itaí
+Matias Barbosa - Confresa
+Poços de Caldas - Confresa
+São José dos Basílios - Poços de Caldas
+Serra Negra do Norte - São José dos Basílios
+Paulistas - Poços de Caldas
+Campos Novos - Águas de São Pedro
+Planalto - Campos Novos
+Populina - Planalto
+Tacuru - Campos Novos
+Itaiópolis - Tacuru
+Acaiaca - Itaiópolis
+Liberato Salzano - Tacuru
+Sales Oliveira - Taquara
+Francisco Macedo - Sales Oliveira
+Nova Bréscia - Francisco Macedo
+Valente - Nova Bréscia
+Porto Firme - Valente
+Santa Helena de Minas - Nova Bréscia
+Conceição da Feira - Santa Helena de Minas
+Cachoeira da Prata - Santa Helena de Minas
+Itabaiana - Francisco Macedo
+Guaraciaba - Itabaiana
+Rosário Oeste - Guaraciaba
+Inácio Martins - Rosário Oeste
+Dona Francisca - Itabaiana
+Monjolos - Dona Francisca
+Santa Cruz da Esperança - Monjolos
+Jaboticatubas - Sales Oliveira
+União do Sul - Jaboticatubas
+Auriflama - União do Sul
+Poção de Pedras - União do Sul
+Progresso - Poção de Pedras
+Conquista d'Oeste - Progresso
+Quissamã - Poção de Pedras
+Campos Verdes - Jaboticatubas
+São José do Povo - Campos Verdes
+Pombal - Campos Verdes
+Vera Mendes - Pombal
+Caruaru - Pombal
+São Gabriel da Palha - Pompeia
+Santópolis do Aguapeí - São Gabriel da Palha
+Japaraíba - Santópolis do Aguapeí
+Junco do Maranhão - Japaraíba
+Douradoquara - Junco do Maranhão
+Terezópolis de Goiás - Douradoquara
+Rolim de Moura - Terezópolis de Goiás
+Calmon - Douradoquara
+Soure - Junco do Maranhão
+Salvaterra - Soure
+Osasco - Soure
+Timóteo - Osasco
+Paraopeba - Osasco
+Rondon do Pará - Paraopeba
+Pirajuba - Japaraíba
+Cajapió - Pirajuba
+Poá - Cajapió
+Itupiranga - Cajapió
+Mazagão - Pirajuba
+Ruy Barbosa - Mazagão
+Divinópolis do Tocantins - Ruy Barbosa
+Passo Fundo - Mazagão
+Piraquê - Santópolis do Aguapeí
+Paulo Lopes - Piraquê
+Iepê - Paulo Lopes
+Ivolândia - Paulo Lopes
+Pouso Novo - Ivolândia
+São Miguel do Tapuio - Ivolândia
+Andrelândia - São Miguel do Tapuio
+Lajedo - Piraquê
+Formiga - Lajedo
+Baldim - Formiga
+Uniflor - Baldim
+Matias Cardoso - Baldim
+Nerópolis - Matias Cardoso
+Piçarra - Formiga
+Condado - Piçarra
+Acopiara - Condado
+Pindorama - Lajedo
+Mato Castelhano - Pindorama
+Luziânia - Mato Castelhano
+Pocinhos - São Gabriel da Palha
+Bom Jesus da Serra - Pocinhos
+Pinheirinho do Vale - Bom Jesus da Serra
+Laranjeiras do Sul - Pinheirinho do Vale
+Lucrécia - Laranjeiras do Sul
+Encruzilhada - Pinheirinho do Vale
+São João da Mata - Encruzilhada
+Capivari de Baixo - Bom Jesus da Serra
+Fernando Falcão - Capivari de Baixo
+Porto Rico - Fernando Falcão
+Tamarana - Fernando Falcão
+São Roberto - Capivari de Baixo
+Figueira - São Roberto
+Itatiba - Figueira
+Luiziânia - Pocinhos
+Ouro Verde do Oeste - Luiziânia
+Firminópolis - Ouro Verde do Oeste
+Novo Lino - Firminópolis
+Santo Antônio do Caiuá - Ouro Verde do Oeste
+Marechal Cândido Rondon - Santo Antônio do Caiuá
+Marzagão - Marechal Cândido Rondon
+Canápolis - Santo Antônio do Caiuá
+Santana do Seridó - Canápolis
+Mata de São João - Canápolis
+Agudos do Sul - Luiziânia
+Iguaba Grande - Agudos do Sul

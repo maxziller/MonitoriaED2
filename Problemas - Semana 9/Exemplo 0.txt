@@ -1,0 +1,26 @@
+7
+Coração de Jesus
+São João do Soter - x: 572 y: 527
+Carlos Gomes - x: 736 y: 694
+Campo Largo - x: 941 y: 1
+Palmares Paulista - x: 751 y: 48
+Paulistânia - x: 250 y: 403
+Altos - x: 605 y: 51
+Coração de Jesus - x: 165 y: 709
+Palmares Paulista tem estrada para Paulistânia
+São João do Soter tem estrada para Carlos Gomes
+São João do Soter tem estrada para Paulistânia
+São João do Soter tem estrada para Altos
+São João do Soter tem estrada para Campo Largo
+Carlos Gomes tem estrada para Palmares Paulista
+Carlos Gomes tem estrada para Paulistânia
+Carlos Gomes tem estrada para Altos
+Carlos Gomes tem estrada para Campo Largo
+São João do Soter tem estrada para Palmares Paulista
+São João do Soter tem estrada para Coração de Jesus
+Carlos Gomes tem estrada para Coração de Jesus
+Paulistânia tem estrada para Altos
+Paulistânia tem estrada para Coração de Jesus
+Palmares Paulista tem estrada para Altos
+Campo Largo tem estrada para Altos
+Acabaram as estradas

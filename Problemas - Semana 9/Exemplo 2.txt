@@ -1,0 +1,125 @@
+31
+Entre Rios
+Nova Rosalândia - x: 855 y: 849
+Santa Rita do Trivelato - x: 30 y: 401
+Santo Antônio de Pádua - x: 749 y: 812
+Rio Largo - x: 789 y: 929
+Pentecoste - x: 369 y: 206
+Santa Cruz do Arari - x: 213 y: 773
+Firminópolis - x: 452 y: 918
+Paula Freitas - x: 256 y: 196
+Imbé - x: 212 y: 614
+Lençóis - x: 342 y: 647
+Caraguatatuba - x: 985 y: 909
+Jales - x: 315 y: 361
+Coreaú - x: 66 y: 473
+Alvorada d'Oeste - x: 368 y: 553
+Pacaembu - x: 172 y: 348
+Estrela d'Oeste - x: 178 y: 700
+Cachoeira de Goiás - x: 819 y: 152
+Envira - x: 476 y: 612
+Fátima - x: 841 y: 46
+Pirangi - x: 932 y: 191
+Entre Rios - x: 540 y: 406
+Lizarda - x: 753 y: 20
+Garanhuns - x: 295 y: 855
+Flores da Cunha - x: 1000 y: 422
+São José do Vale do Rio Preto - x: 109 y: 229
+Ipueira - x: 41 y: 89
+Canguaretama - x: 541 y: 305
+Alto Piquiri - x: 666 y: 150
+Bonfim - x: 947 y: 296
+Ponte Preta - x: 697 y: 511
+Messias - x: 564 y: 69
+Imbé tem estrada para Alvorada d'Oeste
+Cachoeira de Goiás tem estrada para Lizarda
+Nova Rosalândia tem estrada para Alto Piquiri
+Nova Rosalândia tem estrada para Caraguatatuba
+Santa Cruz do Arari tem estrada para Firminópolis
+Nova Rosalândia tem estrada para Bonfim
+Nova Rosalândia tem estrada para Alvorada d'Oeste
+Nova Rosalândia tem estrada para Fátima
+Pirangi tem estrada para Flores da Cunha
+Pentecoste tem estrada para Canguaretama
+Rio Largo tem estrada para Ponte Preta
+Santa Cruz do Arari tem estrada para Imbé
+Cachoeira de Goiás tem estrada para Fátima
+Lizarda tem estrada para Messias
+Nova Rosalândia tem estrada para Santa Rita do Trivelato
+Nova Rosalândia tem estrada para Paula Freitas
+Caraguatatuba tem estrada para Ponte Preta
+Pentecoste tem estrada para Paula Freitas
+Flores da Cunha tem estrada para Bonfim
+Canguaretama tem estrada para Alto Piquiri
+Pentecoste tem estrada para Jales
+Nova Rosalândia tem estrada para Estrela d'Oeste
+Canguaretama tem estrada para Ponte Preta
+Pirangi tem estrada para Bonfim
+Lençóis tem estrada para Envira
+Nova Rosalândia tem estrada para Ponte Preta
+Santo Antônio de Pádua tem estrada para Ponte Preta
+Nova Rosalândia tem estrada para Pirangi
+Santa Rita do Trivelato tem estrada para Pacaembu
+Pacaembu tem estrada para São José do Vale do Rio Preto
+Lençóis tem estrada para Estrela d'Oeste
+Nova Rosalândia tem estrada para São José do Vale do Rio Preto
+Firminópolis tem estrada para Garanhuns
+Pacaembu tem estrada para Ipueira
+Coreaú tem estrada para Pacaembu
+Flores da Cunha tem estrada para Ponte Preta
+Entre Rios tem estrada para Canguaretama
+Lizarda tem estrada para Alto Piquiri
+Entre Rios tem estrada para Ponte Preta
+Santa Rita do Trivelato tem estrada para Imbé
+Imbé tem estrada para Estrela d'Oeste
+Nova Rosalândia tem estrada para Pentecoste
+Santa Rita do Trivelato tem estrada para Coreaú
+Nova Rosalândia tem estrada para Canguaretama
+Imbé tem estrada para Coreaú
+Nova Rosalândia tem estrada para Flores da Cunha
+Nova Rosalândia tem estrada para Firminópolis
+Estrela d'Oeste tem estrada para Garanhuns
+Nova Rosalândia tem estrada para Pacaembu
+Cachoeira de Goiás tem estrada para Pirangi
+Rio Largo tem estrada para Firminópolis
+Rio Largo tem estrada para Caraguatatuba
+Nova Rosalândia tem estrada para Garanhuns
+Nova Rosalândia tem estrada para Envira
+Jales tem estrada para Pacaembu
+Paula Freitas tem estrada para São José do Vale do Rio Preto
+Fátima tem estrada para Pirangi
+Nova Rosalândia tem estrada para Jales
+Nova Rosalândia tem estrada para Entre Rios
+Nova Rosalândia tem estrada para Lençóis
+Imbé tem estrada para Lençóis
+Fátima tem estrada para Lizarda
+Caraguatatuba tem estrada para Flores da Cunha
+Cachoeira de Goiás tem estrada para Bonfim
+Nova Rosalândia tem estrada para Coreaú
+Nova Rosalândia tem estrada para Santo Antônio de Pádua
+São José do Vale do Rio Preto tem estrada para Ipueira
+Alto Piquiri tem estrada para Messias
+Santa Cruz do Arari tem estrada para Estrela d'Oeste
+Nova Rosalândia tem estrada para Ipueira
+Santa Rita do Trivelato tem estrada para São José do Vale do Rio Preto
+Paula Freitas tem estrada para Pacaembu
+Cachoeira de Goiás tem estrada para Alto Piquiri
+Paula Freitas tem estrada para Jales
+Coreaú tem estrada para São José do Vale do Rio Preto
+Lençóis tem estrada para Alvorada d'Oeste
+Firminópolis tem estrada para Lençóis
+Envira tem estrada para Entre Rios
+Nova Rosalândia tem estrada para Santa Cruz do Arari
+Nova Rosalândia tem estrada para Imbé
+Envira tem estrada para Ponte Preta
+Nova Rosalândia tem estrada para Rio Largo
+Santo Antônio de Pádua tem estrada para Firminópolis
+Alvorada d'Oeste tem estrada para Envira
+Canguaretama tem estrada para Messias
+Nova Rosalândia tem estrada para Cachoeira de Goiás
+Santa Cruz do Arari tem estrada para Garanhuns
+Nova Rosalândia tem estrada para Lizarda
+Santo Antônio de Pádua tem estrada para Caraguatatuba
+Paula Freitas tem estrada para Ipueira
+Nova Rosalândia tem estrada para Messias
+Acabaram as estradas

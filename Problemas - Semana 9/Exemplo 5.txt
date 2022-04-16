@@ -1,0 +1,999 @@
+255
+Volta Grande
+Eugênio de Castro - x: 341 y: 590
+Ibirataia - x: 851 y: 707
+Santana do Itararé - x: 974 y: 782
+Miracema - x: 594 y: 621
+Ibaiti - x: 432 y: 369
+Santa Cruz do Xingu - x: 517 y: 437
+São José do Divino - x: 149 y: 325
+Guapó - x: 479 y: 642
+Monte Alegre de Minas - x: 253 y: 731
+Guiricema - x: 273 y: 599
+Rubineia - x: 502 y: 946
+Indianópolis - x: 486 y: 965
+Colinas do Sul - x: 793 y: 845
+Cubatão - x: 717 y: 87
+Ipê - x: 401 y: 312
+São José do Norte - x: 256 y: 412
+Manoel Ribas - x: 76 y: 441
+Mata Grande - x: 232 y: 52
+Rio de Contas - x: 805 y: 725
+Cafeara - x: 757 y: 999
+Alfredo Wagner - x: 615 y: 690
+Biguaçu - x: 699 y: 708
+Macaé - x: 944 y: 424
+Riacho dos Machados - x: 101 y: 890
+Planalto - x: 222 y: 44
+Gonzaga - x: 506 y: 783
+Pradópolis - x: 769 y: 857
+Boa Vista da Aparecida - x: 766 y: 820
+Ribeirão dos Índios - x: 97 y: 577
+Jequiá da Praia - x: 473 y: 313
+Miraíma - x: 379 y: 473
+Lavandeira - x: 318 y: 104
+Honório Serpa - x: 503 y: 529
+Macedônia - x: 627 y: 148
+Formigueiro - x: 887 y: 825
+Braço do Trombudo - x: 268 y: 300
+Coroaci - x: 170 y: 77
+Santo Antônio do Sudoeste - x: 293 y: 894
+Garruchos - x: 310 y: 514
+Jordão - x: 908 y: 345
+Belém de Maria - x: 859 y: 567
+Jaçanã - x: 119 y: 490
+Confins - x: 826 y: 425
+Anísio de Abreu - x: 809 y: 524
+Andradas - x: 497 y: 590
+Caseara - x: 482 y: 534
+Santa Rita de Jacutinga - x: 587 y: 128
+Diorama - x: 144 y: 163
+Guaraqueçaba - x: 743 y: 308
+Tuntum - x: 557 y: 227
+Montauri - x: 13 y: 717
+Ecoporanga - x: 73 y: 823
+Juranda - x: 239 y: 184
+Guiratinga - x: 949 y: 299
+Humaitá - x: 567 y: 241
+Jandira - x: 988 y: 334
+Glória - x: 980 y: 489
+Araranguá - x: 582 y: 988
+Dom Pedro de Alcântara - x: 413 y: 188
+Bacuri - x: 651 y: 368
+Alpinópolis - x: 368 y: 887
+Lagedo do Tabocal - x: 908 y: 707
+Santa Cruz do Capibaribe - x: 472 y: 704
+Turiaçu - x: 173 y: 327
+Montes Altos - x: 749 y: 827
+Barrinha - x: 24 y: 584
+Itabuna - x: 975 y: 951
+Presidente Vargas - x: 671 y: 142
+Rodolfo Fernandes - x: 585 y: 46
+Maragogipe - x: 833 y: 654
+Santa Terezinha do Progresso - x: 620 y: 264
+Goiatuba - x: 996 y: 837
+Quatro Barras - x: 110 y: 777
+Barrocas - x: 854 y: 11
+Ouricuri - x: 382 y: 465
+Rianápolis - x: 556 y: 470
+Lagoa do Piauí - x: 816 y: 484
+Porto Lucena - x: 143 y: 989
+Santa Juliana - x: 854 y: 112
+Quiterianópolis - x: 767 y: 225
+Londrina - x: 819 y: 456
+Rio Bananal - x: 934 y: 669
+Mazagão - x: 970 y: 794
+Dois Irmãos do Tocantins - x: 12 y: 854
+Rodeio Bonito - x: 679 y: 867
+Entre Rios de Minas - x: 938 y: 883
+Mortugaba - x: 995 y: 681
+Lagoa Grande do Maranhão - x: 997 y: 490
+Aiuruoca - x: 323 y: 609
+Atalaia - x: 200 y: 381
+Conceição do Pará - x: 860 y: 144
+Barreiras do Piauí - x: 496 y: 115
+Itanhomi - x: 878 y: 755
+Cromínia - x: 817 y: 393
+Cajazeiras - x: 341 y: 366
+Afogados da Ingazeira - x: 295 y: 422
+Sertaneja - x: 273 y: 865
+Marliéria - x: 580 y: 605
+Várzea da Roça - x: 728 y: 796
+Palmeirais - x: 989 y: 536
+Camaquã - x: 771 y: 795
+Prado - x: 458 y: 464
+Coronel Bicaco - x: 278 y: 777
+Ipaba - x: 509 y: 645
+Quinta do Sol - x: 643 y: 97
+Luislândia - x: 494 y: 382
+São João da Ponte - x: 483 y: 10
+Flor do Sertão - x: 261 y: 956
+Canhoba - x: 587 y: 902
+Júlio Borges - x: 634 y: 965
+Assaí - x: 590 y: 953
+Realeza - x: 606 y: 743
+Araponga - x: 129 y: 946
+Campina Grande do Sul - x: 170 y: 938
+Embu das Artes - x: 986 y: 955
+Cunha - x: 278 y: 776
+Minas Novas - x: 839 y: 567
+Maetinga - x: 147 y: 957
+São Carlos - x: 429 y: 838
+Pitanga - x: 998 y: 652
+Óbidos - x: 548 y: 157
+Rio Negro - x: 709 y: 561
+Alpestre - x: 889 y: 177
+Iaras - x: 55 y: 103
+Joca Claudino - x: 819 y: 888
+Braganey - x: 123 y: 498
+Juazeiro - x: 621 y: 141
+Buriti Bravo - x: 119 y: 381
+Campos do Jordão - x: 557 y: 52
+Paraíso do Norte - x: 23 y: 898
+Eusébio - x: 309 y: 235
+São Geraldo do Araguaia - x: 587 y: 580
+Dom Feliciano - x: 345 y: 889
+Niterói - x: 67 y: 382
+Castanhal - x: 896 y: 475
+Olindina - x: 841 y: 971
+Marilena - x: 568 y: 921
+Eliseu Martins - x: 902 y: 385
+Telêmaco Borba - x: 2 y: 320
+Grão-Pará - x: 313 y: 456
+Regeneração - x: 549 y: 699
+Manoel Urbano - x: 471 y: 26
+Morretes - x: 945 y: 900
+Laurentino - x: 163 y: 1
+Moreira Sales - x: 550 y: 770
+Nova Módica - x: 139 y: 478
+Pacoti - x: 458 y: 93
+Escada - x: 768 y: 504
+Mogi Guaçu - x: 157 y: 598
+Dom Basílio - x: 72 y: 103
+Guaiçara - x: 945 y: 662
+Estrela - x: 295 y: 405
+Roteiro - x: 39 y: 643
+Damianópolis - x: 194 y: 531
+Tocantínia - x: 455 y: 476
+Novo Xingu - x: 328 y: 28
+Vargeão - x: 674 y: 336
+São Miguel do Gostoso - x: 957 y: 157
+Oliveira de Fátima - x: 534 y: 329
+Ilha Solteira - x: 659 y: 52
+Pesqueira - x: 958 y: 74
+Campo Alegre do Fidalgo - x: 459 y: 231
+Tambaú - x: 469 y: 709
+São Pedro dos Crentes - x: 818 y: 223
+Rio Bom - x: 255 y: 35
+Mucuri - x: 863 y: 210
+Axixá do Tocantins - x: 233 y: 912
+Baixio - x: 555 y: 434
+São Bento do Norte - x: 875 y: 897
+Paulistânia - x: 583 y: 242
+Vitória - x: 244 y: 159
+Gurinhém - x: 793 y: 81
+Ibititá - x: 7 y: 533
+Apiúna - x: 648 y: 434
+Água Fria - x: 364 y: 445
+Piripiri - x: 211 y: 360
+São João do Ivaí - x: 100 y: 511
+Paracatu - x: 139 y: 990
+Rio Bonito - x: 211 y: 877
+Batayporã - x: 992 y: 244
+São Francisco do Pará - x: 797 y: 402
+Ferros - x: 638 y: 373
+Congonhas do Norte - x: 958 y: 969
+Vila Lângaro - x: 152 y: 730
+Colina - x: 848 y: 176
+Engenheiro Paulo de Frontin - x: 837 y: 529
+Americano do Brasil - x: 630 y: 382
+Laranjal do Jari - x: 691 y: 148
+Rolim de Moura - x: 589 y: 584
+Bocaina de Minas - x: 168 y: 441
+Nova Redenção - x: 564 y: 420
+Visconde do Rio Branco - x: 206 y: 614
+Umarizal - x: 695 y: 389
+Duque Bacelar - x: 370 y: 267
+Guarujá - x: 204 y: 998
+Presidente Venceslau - x: 983 y: 181
+Juiz de Fora - x: 512 y: 260
+Sulina - x: 306 y: 216
+Aporá - x: 366 y: 291
+Mathias Lobato - x: 259 y: 475
+Bodoquena - x: 50 y: 865
+Vertente do Lério - x: 716 y: 957
+Valença do Piauí - x: 414 y: 951
+Gurupá - x: 904 y: 375
+Bom Jardim de Goiás - x: 464 y: 194
+Monteiro - x: 364 y: 837
+Veranópolis - x: 387 y: 715
+Taquaruçu do Sul - x: 507 y: 101
+Pedregulho - x: 858 y: 6
+Nova Luzitânia - x: 257 y: 72
+São Sebastião da Grama - x: 202 y: 61
+Balneário Arroio do Silva - x: 48 y: 890
+Américo de Campos - x: 137 y: 381
+Ilha das Flores - x: 489 y: 652
+Tuneiras do Oeste - x: 507 y: 636
+Icém - x: 858 y: 582
+Jatobá do Piauí - x: 255 y: 45
+Milton Brandão - x: 504 y: 760
+Araçás - x: 51 y: 404
+Vargem Alta - x: 749 y: 661
+Camaçari - x: 937 y: 774
+Alto Garças - x: 968 y: 278
+Turvolândia - x: 121 y: 691
+Mogi Mirim - x: 824 y: 206
+Belterra - x: 313 y: 646
+Iporá - x: 873 y: 298
+Calçoene - x: 114 y: 347
+Uruguaiana - x: 828 y: 70
+Gália - x: 61 y: 191
+Bom Jardim de Minas - x: 298 y: 921
+Espírito Santo do Dourado - x: 70 y: 247
+Tupi Paulista - x: 369 y: 586
+Pedra Grande - x: 420 y: 886
+Volta Grande - x: 549 y: 988
+Lagoa dos Patos - x: 323 y: 178
+Brasileira - x: 592 y: 157
+Junqueirópolis - x: 80 y: 17
+Rio Novo - x: 193 y: 143
+Catarina - x: 469 y: 363
+Guaraciaba do Norte - x: 74 y: 886
+Rancho Alegre d'Oeste - x: 123 y: 386
+Caracol - x: 796 y: 532
+Pedralva - x: 843 y: 201
+Jaguaruana - x: 485 y: 111
+Sete Lagoas - x: 47 y: 780
+Barra do Rocha - x: 92 y: 106
+Pequizeiro - x: 111 y: 216
+Mairi - x: 737 y: 58
+Nova Olinda - x: 684 y: 256
+Botuporã - x: 777 y: 296
+Coqueiro Seco - x: 196 y: 747
+São Miguel do Oeste - x: 777 y: 678
+Firmino Alves - x: 482 y: 923
+Dirce Reis - x: 659 y: 121
+Balsa Nova - x: 167 y: 760
+Eliseu Martins tem estrada para Gurupá
+Duque Bacelar tem estrada para Aporá
+Itabuna tem estrada para Embu das Artes
+Santa Juliana tem estrada para Colina
+Guapó tem estrada para Andradas
+Eugênio de Castro tem estrada para São João da Ponte
+Eugênio de Castro tem estrada para Colinas do Sul
+Eugênio de Castro tem estrada para Veranópolis
+Barrinha tem estrada para Ibititá
+Santa Terezinha do Progresso tem estrada para Paulistânia
+São Pedro dos Crentes tem estrada para Mucuri
+Eugênio de Castro tem estrada para Caracol
+Humaitá tem estrada para Santa Terezinha do Progresso
+Assaí tem estrada para Volta Grande
+Eugênio de Castro tem estrada para Grão-Pará
+Eugênio de Castro tem estrada para Barrocas
+Eugênio de Castro tem estrada para São Francisco do Pará
+Eugênio de Castro tem estrada para Alto Garças
+Santo Antônio do Sudoeste tem estrada para Dom Feliciano
+Ilha Solteira tem estrada para Mairi
+Eugênio de Castro tem estrada para Buriti Bravo
+Aiuruoca tem estrada para Belterra
+Castanhal tem estrada para Engenheiro Paulo de Frontin
+Paraíso do Norte tem estrada para Balneário Arroio do Silva
+Eugênio de Castro tem estrada para Ibaiti
+Juranda tem estrada para Sulina
+Eugênio de Castro tem estrada para São Sebastião da Grama
+Eugênio de Castro tem estrada para Apiúna
+Alpestre tem estrada para Mucuri
+Minas Novas tem estrada para Icém
+Sertaneja tem estrada para Rio Bonito
+Jaçanã tem estrada para São João do Ivaí
+Anísio de Abreu tem estrada para Engenheiro Paulo de Frontin
+Eugênio de Castro tem estrada para Realeza
+Pedra Grande tem estrada para Firmino Alves
+Ilha Solteira tem estrada para Dirce Reis
+Atalaia tem estrada para Américo de Campos
+Eugênio de Castro tem estrada para Luislândia
+Eugênio de Castro tem estrada para Baixio
+Realeza tem estrada para Regeneração
+Guiratinga tem estrada para Alto Garças
+Santana do Itararé tem estrada para Camaçari
+Eugênio de Castro tem estrada para Eusébio
+Rodeio Bonito tem estrada para Várzea da Roça
+Macedônia tem estrada para Juazeiro
+Ibirataia tem estrada para Itanhomi
+Confins tem estrada para São Francisco do Pará
+Mogi Guaçu tem estrada para Visconde do Rio Branco
+Itanhomi tem estrada para Camaçari
+Prado tem estrada para Tocantínia
+Eugênio de Castro tem estrada para Guiricema
+Rio de Contas tem estrada para Maragogipe
+Guaraqueçaba tem estrada para Vargeão
+Macaé tem estrada para Castanhal
+Maragogipe tem estrada para São Miguel do Oeste
+Ipê tem estrada para Aporá
+Joca Claudino tem estrada para São Bento do Norte
+Anísio de Abreu tem estrada para Rio Negro
+Eusébio tem estrada para Duque Bacelar
+Eugênio de Castro tem estrada para Mogi Guaçu
+Eugênio de Castro tem estrada para Estrela
+Jandira tem estrada para Alto Garças
+Caseara tem estrada para Tocantínia
+Santo Antônio do Sudoeste tem estrada para Bom Jardim de Minas
+Bacuri tem estrada para Umarizal
+Eugênio de Castro tem estrada para Gonzaga
+Eugênio de Castro tem estrada para Cajazeiras
+Veranópolis tem estrada para Belterra
+Eugênio de Castro tem estrada para Planalto
+Andradas tem estrada para Rolim de Moura
+Eugênio de Castro tem estrada para Mortugaba
+Pesqueira tem estrada para Presidente Venceslau
+Eugênio de Castro tem estrada para Catarina
+Eugênio de Castro tem estrada para Montes Altos
+Honório Serpa tem estrada para Caseara
+Eugênio de Castro tem estrada para Tocantínia
+Júlio Borges tem estrada para Vertente do Lério
+Tuntum tem estrada para Juiz de Fora
+Valença do Piauí tem estrada para Firmino Alves
+Eugênio de Castro tem estrada para Joca Claudino
+Santa Rita de Jacutinga tem estrada para Óbidos
+Gonzaga tem estrada para Milton Brandão
+Barreiras do Piauí tem estrada para Pacoti
+Rio Bananal tem estrada para Pitanga
+Mucuri tem estrada para Pedralva
+Lagoa do Piauí tem estrada para Escada
+Eugênio de Castro tem estrada para Manoel Urbano
+Planalto tem estrada para Coroaci
+Santa Rita de Jacutinga tem estrada para Juazeiro
+Goiatuba tem estrada para Morretes
+Eugênio de Castro tem estrada para Maragogipe
+Eugênio de Castro tem estrada para Confins
+Nova Módica tem estrada para Damianópolis
+Boa Vista da Aparecida tem estrada para Camaquã
+Eugênio de Castro tem estrada para Valença do Piauí
+Eugênio de Castro tem estrada para Uruguaiana
+Juazeiro tem estrada para Brasileira
+Eugênio de Castro tem estrada para Manoel Ribas
+Quiterianópolis tem estrada para Botuporã
+Eugênio de Castro tem estrada para Lagoa dos Patos
+Gurinhém tem estrada para Uruguaiana
+Cubatão tem estrada para Laranjal do Jari
+Jordão tem estrada para Iporá
+Eugênio de Castro tem estrada para São Carlos
+Vargeão tem estrada para Nova Olinda
+Eugênio de Castro tem estrada para Barra do Rocha
+Sertaneja tem estrada para Axixá do Tocantins
+Eugênio de Castro tem estrada para Quinta do Sol
+Formigueiro tem estrada para Camaçari
+Óbidos tem estrada para Brasileira
+Quatro Barras tem estrada para Sete Lagoas
+Baixio tem estrada para Nova Redenção
+Ipaba tem estrada para Regeneração
+Mazagão tem estrada para Camaçari
+Araponga tem estrada para Paracatu
+Buriti Bravo tem estrada para Rancho Alegre d'Oeste
+Eugênio de Castro tem estrada para Tuneiras do Oeste
+Alfredo Wagner tem estrada para Biguaçu
+Eugênio de Castro tem estrada para Tupi Paulista
+Mortugaba tem estrada para Pitanga
+Barrocas tem estrada para Pedregulho
+Eugênio de Castro tem estrada para Pequizeiro
+Eugênio de Castro tem estrada para Jordão
+São Pedro dos Crentes tem estrada para Mogi Mirim
+Eugênio de Castro tem estrada para Ibirataia
+Laranjal do Jari tem estrada para Dirce Reis
+Dom Pedro de Alcântara tem estrada para Duque Bacelar
+Eugênio de Castro tem estrada para Nova Luzitânia
+Tuntum tem estrada para Humaitá
+Braganey tem estrada para Damianópolis
+Honório Serpa tem estrada para Tocantínia
+Eugênio de Castro tem estrada para Taquaruçu do Sul
+Luislândia tem estrada para Oliveira de Fátima
+Londrina tem estrada para Castanhal
+Dois Irmãos do Tocantins tem estrada para Bodoquena
+Vila Lângaro tem estrada para Turvolândia
+Manoel Ribas tem estrada para Niterói
+Lavandeira tem estrada para Lagoa dos Patos
+Eugênio de Castro tem estrada para Pradópolis
+Tambaú tem estrada para Ilha das Flores
+Alpestre tem estrada para Colina
+Eugênio de Castro tem estrada para Rio Negro
+Aiuruoca tem estrada para Tupi Paulista
+Belém de Maria tem estrada para Engenheiro Paulo de Frontin
+Eugênio de Castro tem estrada para Tambaú
+Formigueiro tem estrada para Itanhomi
+Planalto tem estrada para Rio Bom
+Mata Grande tem estrada para Jatobá do Piauí
+Vitória tem estrada para Lagoa dos Patos
+Macaé tem estrada para Lagoa Grande do Maranhão
+Eugênio de Castro tem estrada para Ferros
+Alpinópolis tem estrada para São Carlos
+Grão-Pará tem estrada para Estrela
+Colinas do Sul tem estrada para Montes Altos
+Santana do Itararé tem estrada para Goiatuba
+Eugênio de Castro tem estrada para Mucuri
+Eugênio de Castro tem estrada para Ribeirão dos Índios
+Braço do Trombudo tem estrada para Piripiri
+Gonzaga tem estrada para Moreira Sales
+Eugênio de Castro tem estrada para Bom Jardim de Goiás
+Rubineia tem estrada para Indianópolis
+Ferros tem estrada para Umarizal
+Montauri tem estrada para Sete Lagoas
+Guiricema tem estrada para Visconde do Rio Branco
+Pradópolis tem estrada para Joca Claudino
+Eugênio de Castro tem estrada para Macedônia
+Rodeio Bonito tem estrada para Vertente do Lério
+Eugênio de Castro tem estrada para Jaçanã
+Cajazeiras tem estrada para Afogados da Ingazeira
+Eugênio de Castro tem estrada para Coronel Bicaco
+Eugênio de Castro tem estrada para Araponga
+Canhoba tem estrada para Marilena
+Eugênio de Castro tem estrada para Presidente Vargas
+Eugênio de Castro tem estrada para Vila Lângaro
+Pitanga tem estrada para Guaiçara
+Eugênio de Castro tem estrada para Londrina
+São João da Ponte tem estrada para Campos do Jordão
+Londrina tem estrada para Cromínia
+Paraíso do Norte tem estrada para Bodoquena
+Braganey tem estrada para São João do Ivaí
+Vargeão tem estrada para Umarizal
+Santa Rita de Jacutinga tem estrada para Brasileira
+Eugênio de Castro tem estrada para Iporá
+Ouricuri tem estrada para Grão-Pará
+São João da Ponte tem estrada para Pacoti
+Eugênio de Castro tem estrada para Bom Jardim de Minas
+Santa Juliana tem estrada para Uruguaiana
+Eugênio de Castro tem estrada para Campo Alegre do Fidalgo
+Eugênio de Castro tem estrada para Iaras
+Apiúna tem estrada para Umarizal
+São Miguel do Gostoso tem estrada para Presidente Venceslau
+Eugênio de Castro tem estrada para Espírito Santo do Dourado
+Braço do Trombudo tem estrada para Eusébio
+Joca Claudino tem estrada para Olindina
+Rio Bom tem estrada para Nova Luzitânia
+Eugênio de Castro tem estrada para Humaitá
+Andradas tem estrada para Ipaba
+Indianópolis tem estrada para Valença do Piauí
+Eugênio de Castro tem estrada para Bacuri
+Tuntum tem estrada para Paulistânia
+Porto Lucena tem estrada para Araponga
+Quinta do Sol tem estrada para Ilha Solteira
+Miracema tem estrada para Marliéria
+Rio de Contas tem estrada para São Miguel do Oeste
+Alpinópolis tem estrada para Monteiro
+Eugênio de Castro tem estrada para São João do Ivaí
+Gurinhém tem estrada para Mairi
+Santa Juliana tem estrada para Conceição do Pará
+Eugênio de Castro tem estrada para Monte Alegre de Minas
+Bacuri tem estrada para Americano do Brasil
+Gália tem estrada para Pequizeiro
+Nova Luzitânia tem estrada para Jatobá do Piauí
+Cafeara tem estrada para Joca Claudino
+Eugênio de Castro tem estrada para Volta Grande
+Dom Basílio tem estrada para Barra do Rocha
+Eugênio de Castro tem estrada para Engenheiro Paulo de Frontin
+Morretes tem estrada para Congonhas do Norte
+Macaé tem estrada para Eliseu Martins
+Araranguá tem estrada para Assaí
+Eugênio de Castro tem estrada para Balsa Nova
+Barreiras do Piauí tem estrada para Óbidos
+Rio de Contas tem estrada para Camaquã
+Buriti Bravo tem estrada para Américo de Campos
+Marliéria tem estrada para São Geraldo do Araguaia
+Monte Alegre de Minas tem estrada para Coqueiro Seco
+Eugênio de Castro tem estrada para Pesqueira
+Bodoquena tem estrada para Guaraciaba do Norte
+Itabuna tem estrada para Morretes
+Cafeara tem estrada para Olindina
+Itabuna tem estrada para Congonhas do Norte
+Mortugaba tem estrada para Guaiçara
+Eugênio de Castro tem estrada para Paulistânia
+Minas Novas tem estrada para Engenheiro Paulo de Frontin
+Eugênio de Castro tem estrada para Duque Bacelar
+Eugênio de Castro tem estrada para Congonhas do Norte
+Eugênio de Castro tem estrada para Rio Bonito
+Niterói tem estrada para Telêmaco Borba
+Eugênio de Castro tem estrada para Boa Vista da Aparecida
+Cajazeiras tem estrada para Estrela
+Barrinha tem estrada para Roteiro
+Vargem Alta tem estrada para São Miguel do Oeste
+Eugênio de Castro tem estrada para Afogados da Ingazeira
+Rubineia tem estrada para Volta Grande
+Eugênio de Castro tem estrada para Anísio de Abreu
+Garruchos tem estrada para Grão-Pará
+Eugênio de Castro tem estrada para Araçás
+Santa Juliana tem estrada para Pesqueira
+Eugênio de Castro tem estrada para Juiz de Fora
+Macedônia tem estrada para Santa Rita de Jacutinga
+Boa Vista da Aparecida tem estrada para Montes Altos
+Araranguá tem estrada para Júlio Borges
+Mogi Guaçu tem estrada para Damianópolis
+Braço do Trombudo tem estrada para Sulina
+Realeza tem estrada para Moreira Sales
+Cafeara tem estrada para Vertente do Lério
+Eugênio de Castro tem estrada para Telêmaco Borba
+Eugênio de Castro tem estrada para Firmino Alves
+Ecoporanga tem estrada para Quatro Barras
+Flor do Sertão tem estrada para Bom Jardim de Minas
+Eugênio de Castro tem estrada para Pitanga
+Mucuri tem estrada para Colina
+Rodolfo Fernandes tem estrada para Campos do Jordão
+Santana do Itararé tem estrada para Formigueiro
+Eugênio de Castro tem estrada para Pedra Grande
+Andradas tem estrada para São Geraldo do Araguaia
+São Carlos tem estrada para Monteiro
+Jequiá da Praia tem estrada para Oliveira de Fátima
+Monte Alegre de Minas tem estrada para Coronel Bicaco
+Goiatuba tem estrada para Mazagão
+Novo Xingu tem estrada para Jatobá do Piauí
+Manoel Ribas tem estrada para Jaçanã
+Juranda tem estrada para Vitória
+Eugênio de Castro tem estrada para Colina
+Eugênio de Castro tem estrada para Belém de Maria
+Eugênio de Castro tem estrada para Vitória
+Anísio de Abreu tem estrada para Escada
+Santa Terezinha do Progresso tem estrada para Nova Olinda
+Afogados da Ingazeira tem estrada para Mathias Lobato
+Montes Altos tem estrada para Rodeio Bonito
+Formigueiro tem estrada para São Bento do Norte
+Macedônia tem estrada para Dirce Reis
+Ibirataia tem estrada para Maragogipe
+Eugênio de Castro tem estrada para Embu das Artes
+Coronel Bicaco tem estrada para Coqueiro Seco
+Miracema tem estrada para Rolim de Moura
+Ribeirão dos Índios tem estrada para Mogi Guaçu
+Ibaiti tem estrada para Luislândia
+Eugênio de Castro tem estrada para Niterói
+Ribeirão dos Índios tem estrada para Barrinha
+Mata Grande tem estrada para Coroaci
+São José do Norte tem estrada para Estrela
+Eugênio de Castro tem estrada para Água Fria
+Eugênio de Castro tem estrada para Goiatuba
+Eugênio de Castro tem estrada para Óbidos
+Turvolândia tem estrada para Balsa Nova
+Araranguá tem estrada para Marilena
+Eugênio de Castro tem estrada para Campina Grande do Sul
+Eugênio de Castro tem estrada para Juazeiro
+Confins tem estrada para Londrina
+Eugênio de Castro tem estrada para São José do Norte
+Américo de Campos tem estrada para Calçoene
+Batayporã tem estrada para Presidente Venceslau
+Eugênio de Castro tem estrada para Monteiro
+Alpinópolis tem estrada para Pedra Grande
+Eugênio de Castro tem estrada para Coroaci
+Gurinhém tem estrada para Pedregulho
+Batayporã tem estrada para Alto Garças
+Ecoporanga tem estrada para Bodoquena
+Campina Grande do Sul tem estrada para Rio Bonito
+Presidente Vargas tem estrada para Dirce Reis
+Eugênio de Castro tem estrada para Andradas
+Eugênio de Castro tem estrada para Santana do Itararé
+Campina Grande do Sul tem estrada para Guarujá
+Buriti Bravo tem estrada para Calçoene
+Ipaba tem estrada para Ilha das Flores
+Eugênio de Castro tem estrada para Castanhal
+Miraíma tem estrada para Grão-Pará
+Laurentino tem estrada para Junqueirópolis
+Santa Cruz do Capibaribe tem estrada para Ilha das Flores
+Eugênio de Castro tem estrada para Atalaia
+Eugênio de Castro tem estrada para Garruchos
+Miracema tem estrada para São Geraldo do Araguaia
+Eugênio de Castro tem estrada para Caseara
+Eugênio de Castro tem estrada para Roteiro
+Pacoti tem estrada para Taquaruçu do Sul
+Guapó tem estrada para Ipaba
+Eugênio de Castro tem estrada para Umarizal
+Eugênio de Castro tem estrada para Marilena
+Santo Antônio do Sudoeste tem estrada para Flor do Sertão
+Eugênio de Castro tem estrada para Tuntum
+Eugênio de Castro tem estrada para Turvolândia
+Colina tem estrada para Pedralva
+Eugênio de Castro tem estrada para São Miguel do Oeste
+Eugênio de Castro tem estrada para Rio Novo
+Flor do Sertão tem estrada para Axixá do Tocantins
+Eugênio de Castro tem estrada para Mazagão
+Santa Cruz do Xingu tem estrada para Nova Redenção
+Iaras tem estrada para Junqueirópolis
+Vargeão tem estrada para Ferros
+Niterói tem estrada para Rancho Alegre d'Oeste
+Eugênio de Castro tem estrada para Porto Lucena
+Andradas tem estrada para Caseara
+Riacho dos Machados tem estrada para Bodoquena
+Telêmaco Borba tem estrada para Araçás
+Sertaneja tem estrada para Bom Jardim de Minas
+Eugênio de Castro tem estrada para Aporá
+Coqueiro Seco tem estrada para Balsa Nova
+Eugênio de Castro tem estrada para Santa Rita de Jacutinga
+São Pedro dos Crentes tem estrada para Pedralva
+Quinta do Sol tem estrada para Juazeiro
+Eugênio de Castro tem estrada para Ilha das Flores
+Eugênio de Castro tem estrada para Mairi
+Eugênio de Castro tem estrada para Paraíso do Norte
+Eugênio de Castro tem estrada para Santa Terezinha do Progresso
+Montes Altos tem estrada para Camaquã
+Pedregulho tem estrada para Uruguaiana
+Eugênio de Castro tem estrada para Americano do Brasil
+Marliéria tem estrada para Tuneiras do Oeste
+Riacho dos Machados tem estrada para Balneário Arroio do Silva
+Turiaçu tem estrada para Piripiri
+Afogados da Ingazeira tem estrada para Grão-Pará
+Santa Cruz do Xingu tem estrada para Luislândia
+Colina tem estrada para Mogi Mirim
+Planalto tem estrada para São Sebastião da Grama
+Eugênio de Castro tem estrada para Vargeão
+Lagedo do Tabocal tem estrada para Itanhomi
+Alfredo Wagner tem estrada para Realeza
+Atalaia tem estrada para Bocaina de Minas
+Eugênio de Castro tem estrada para Turiaçu
+Lagoa do Piauí tem estrada para Londrina
+Lavandeira tem estrada para Nova Luzitânia
+Cubatão tem estrada para Dirce Reis
+Ribeirão dos Índios tem estrada para Roteiro
+Quatro Barras tem estrada para Vila Lângaro
+Eugênio de Castro tem estrada para Oliveira de Fátima
+Porto Lucena tem estrada para Campina Grande do Sul
+Eugênio de Castro tem estrada para Lagoa do Piauí
+Guaraqueçaba tem estrada para Nova Olinda
+Alfredo Wagner tem estrada para Regeneração
+São José do Divino tem estrada para Calçoene
+Vila Lângaro tem estrada para Balsa Nova
+São Pedro dos Crentes tem estrada para Botuporã
+Rodolfo Fernandes tem estrada para Ilha Solteira
+Lagedo do Tabocal tem estrada para Rio Bananal
+Américo de Campos tem estrada para Rancho Alegre d'Oeste
+Ouricuri tem estrada para Água Fria
+Laurentino tem estrada para São Sebastião da Grama
+Eugênio de Castro tem estrada para Sete Lagoas
+Cubatão tem estrada para Ilha Solteira
+Maragogipe tem estrada para Vargem Alta
+Eugênio de Castro tem estrada para Quatro Barras
+Ibaiti tem estrada para Ipê
+Eugênio de Castro tem estrada para Moreira Sales
+Eugênio de Castro tem estrada para Júlio Borges
+Guapó tem estrada para Ilha das Flores
+Calçoene tem estrada para Rancho Alegre d'Oeste
+Campo Alegre do Fidalgo tem estrada para Juiz de Fora
+Eugênio de Castro tem estrada para Coqueiro Seco
+Quatro Barras tem estrada para Turvolândia
+Grão-Pará tem estrada para Água Fria
+Eugênio de Castro tem estrada para Aiuruoca
+Pradópolis tem estrada para Rodeio Bonito
+Eugênio de Castro tem estrada para Laurentino
+Eugênio de Castro tem estrada para Ouricuri
+Dom Feliciano tem estrada para Bom Jardim de Minas
+Gurupá tem estrada para Iporá
+Lagoa do Piauí tem estrada para Engenheiro Paulo de Frontin
+Campo Alegre do Fidalgo tem estrada para Bom Jardim de Goiás
+Eugênio de Castro tem estrada para Escada
+Eugênio de Castro tem estrada para Alfredo Wagner
+Cubatão tem estrada para Mairi
+São João da Ponte tem estrada para Manoel Urbano
+Apiúna tem estrada para Ferros
+Planalto tem estrada para Laurentino
+Eugênio de Castro tem estrada para Dom Feliciano
+Eugênio de Castro tem estrada para Rodolfo Fernandes
+Eugênio de Castro tem estrada para Laranjal do Jari
+Jordão tem estrada para Eliseu Martins
+São Geraldo do Araguaia tem estrada para Rolim de Moura
+Eugênio de Castro tem estrada para Montauri
+Santa Cruz do Xingu tem estrada para Rianápolis
+Eugênio de Castro tem estrada para Diorama
+Eugênio de Castro tem estrada para Cromínia
+Eugênio de Castro tem estrada para Minas Novas
+Planalto tem estrada para Jatobá do Piauí
+Eugênio de Castro tem estrada para Camaçari
+Mucuri tem estrada para Mogi Mirim
+Eugênio de Castro tem estrada para Guaraciaba do Norte
+Jordão tem estrada para Jandira
+Eugênio de Castro tem estrada para Nova Módica
+Biguaçu tem estrada para São Miguel do Oeste
+Rianápolis tem estrada para Nova Redenção
+Barreiras do Piauí tem estrada para Jaguaruana
+Monte Alegre de Minas tem estrada para Cunha
+Eugênio de Castro tem estrada para Jaguaruana
+Glória tem estrada para Lagoa Grande do Maranhão
+Eugênio de Castro tem estrada para Novo Xingu
+Iaras tem estrada para Barra do Rocha
+Entre Rios de Minas tem estrada para Morretes
+São Miguel do Gostoso tem estrada para Pesqueira
+Eugênio de Castro tem estrada para Santo Antônio do Sudoeste
+Eugênio de Castro tem estrada para Mathias Lobato
+Santa Rita de Jacutinga tem estrada para Campos do Jordão
+Guiricema tem estrada para Aiuruoca
+Guiricema tem estrada para Belterra
+Turiaçu tem estrada para Atalaia
+Rio Bom tem estrada para Jatobá do Piauí
+Engenheiro Paulo de Frontin tem estrada para Icém
+Balneário Arroio do Silva tem estrada para Guaraciaba do Norte
+Ipaba tem estrada para Tuneiras do Oeste
+Escada tem estrada para Caracol
+Marliéria tem estrada para Rolim de Moura
+Guapó tem estrada para Tuneiras do Oeste
+Confins tem estrada para Cromínia
+Colinas do Sul tem estrada para Boa Vista da Aparecida
+Oliveira de Fátima tem estrada para Juiz de Fora
+Manoel Urbano tem estrada para Pacoti
+Eugênio de Castro tem estrada para Gurinhém
+Eugênio de Castro tem estrada para Biguaçu
+Eugênio de Castro tem estrada para Itanhomi
+Eugênio de Castro tem estrada para Junqueirópolis
+Montauri tem estrada para Roteiro
+Santana do Itararé tem estrada para Mazagão
+Eugênio de Castro tem estrada para Cubatão
+Ibirataia tem estrada para Rio de Contas
+Bacuri tem estrada para Vargeão
+Eugênio de Castro tem estrada para Miracema
+Eugênio de Castro tem estrada para Araranguá
+Várzea da Roça tem estrada para Camaquã
+Eugênio de Castro tem estrada para Axixá do Tocantins
+Cajazeiras tem estrada para Aporá
+Eugênio de Castro tem estrada para Entre Rios de Minas
+Santa Cruz do Xingu tem estrada para Prado
+Olindina tem estrada para São Bento do Norte
+Eugênio de Castro tem estrada para Marliéria
+Eugênio de Castro tem estrada para Guapó
+Dom Pedro de Alcântara tem estrada para Bom Jardim de Goiás
+Pacoti tem estrada para Jaguaruana
+Alpestre tem estrada para Presidente Venceslau
+Vitória tem estrada para Rio Novo
+Ibititá tem estrada para São João do Ivaí
+Campina Grande do Sul tem estrada para Maetinga
+Eugênio de Castro tem estrada para Formigueiro
+Macedônia tem estrada para Presidente Vargas
+Eugênio de Castro tem estrada para Américo de Campos
+Luislândia tem estrada para Catarina
+Eugênio de Castro tem estrada para Santa Cruz do Capibaribe
+Regeneração tem estrada para Moreira Sales
+Jaçanã tem estrada para Braganey
+Eugênio de Castro tem estrada para Nova Redenção
+Santa Cruz do Capibaribe tem estrada para Tambaú
+Alpinópolis tem estrada para Dom Feliciano
+Anísio de Abreu tem estrada para Caracol
+Eugênio de Castro tem estrada para Barreiras do Piauí
+Jaçanã tem estrada para Nova Módica
+Eugênio de Castro tem estrada para Lavandeira
+Grão-Pará tem estrada para Mathias Lobato
+Mata Grande tem estrada para São Sebastião da Grama
+Coroaci tem estrada para Laurentino
+Eugênio de Castro tem estrada para Regeneração
+Cromínia tem estrada para São Francisco do Pará
+Eugênio de Castro tem estrada para Barrinha
+Diorama tem estrada para Gália
+Eugênio de Castro tem estrada para Dom Pedro de Alcântara
+Eugênio de Castro tem estrada para Milton Brandão
+Eugênio de Castro tem estrada para Brasileira
+Eugênio de Castro tem estrada para Camaquã
+Barrocas tem estrada para Uruguaiana
+Pradópolis tem estrada para Boa Vista da Aparecida
+Rio Bananal tem estrada para Mortugaba
+Nova Módica tem estrada para São João do Ivaí
+Porto Lucena tem estrada para Maetinga
+Eugênio de Castro tem estrada para Macaé
+Braganey tem estrada para Nova Módica
+Rio Negro tem estrada para Escada
+Lavandeira tem estrada para Novo Xingu
+Belém de Maria tem estrada para Minas Novas
+Gália tem estrada para Espírito Santo do Dourado
+São José do Norte tem estrada para Piripiri
+Humaitá tem estrada para Juiz de Fora
+Porto Lucena tem estrada para Paracatu
+Rianápolis tem estrada para Baixio
+Eugênio de Castro tem estrada para Batayporã
+Eugênio de Castro tem estrada para Guarujá
+Embu das Artes tem estrada para Morretes
+Eugênio de Castro tem estrada para Pedregulho
+Ibaiti tem estrada para Catarina
+Guaraqueçaba tem estrada para Botuporã
+Eugênio de Castro tem estrada para Santa Cruz do Xingu
+Quiterianópolis tem estrada para São Pedro dos Crentes
+Presidente Vargas tem estrada para Laranjal do Jari
+Eusébio tem estrada para Sulina
+Barrocas tem estrada para Gurinhém
+Belém de Maria tem estrada para Icém
+Eugênio de Castro tem estrada para Riacho dos Machados
+Anísio de Abreu tem estrada para Lagoa do Piauí
+Eugênio de Castro tem estrada para Ibititá
+Eugênio de Castro tem estrada para Rio Bom
+Eugênio de Castro tem estrada para Vertente do Lério
+Santa Cruz do Capibaribe tem estrada para Veranópolis
+Eugênio de Castro tem estrada para Flor do Sertão
+Eugênio de Castro tem estrada para Lagoa Grande do Maranhão
+Mogi Mirim tem estrada para Pedralva
+Rubineia tem estrada para Firmino Alves
+Montauri tem estrada para Turvolândia
+Eugênio de Castro tem estrada para Jequiá da Praia
+Indianópolis tem estrada para Firmino Alves
+Eugênio de Castro tem estrada para Honório Serpa
+Lagoa Grande do Maranhão tem estrada para Palmeirais
+Palmeirais tem estrada para Castanhal
+Eugênio de Castro tem estrada para Alpinópolis
+Guapó tem estrada para Santa Cruz do Capibaribe
+Riacho dos Machados tem estrada para Guaraciaba do Norte
+Diorama tem estrada para Pequizeiro
+Eugênio de Castro tem estrada para Braganey
+Engenheiro Paulo de Frontin tem estrada para Caracol
+Eugênio de Castro tem estrada para Mata Grande
+Paracatu tem estrada para Guarujá
+Londrina tem estrada para São Francisco do Pará
+Ecoporanga tem estrada para Sete Lagoas
+Colinas do Sul tem estrada para Joca Claudino
+Eugênio de Castro tem estrada para Dom Basílio
+Buriti Bravo tem estrada para Niterói
+Eugênio de Castro tem estrada para Calçoene
+Buriti Bravo tem estrada para Araçás
+Eugênio de Castro tem estrada para Dois Irmãos do Tocantins
+Assaí tem estrada para Marilena
+Eugênio de Castro tem estrada para Sulina
+Taquaruçu do Sul tem estrada para Jaguaruana
+Afogados da Ingazeira tem estrada para Estrela
+Eugênio de Castro tem estrada para Rianápolis
+Eugênio de Castro tem estrada para Mogi Mirim
+Eugênio de Castro tem estrada para Icém
+Bodoquena tem estrada para Balneário Arroio do Silva
+Eugênio de Castro tem estrada para Alpestre
+Eugênio de Castro tem estrada para Ilha Solteira
+Porto Lucena tem estrada para Guarujá
+Santa Cruz do Xingu tem estrada para Baixio
+Eugênio de Castro tem estrada para Morretes
+Entre Rios de Minas tem estrada para São Bento do Norte
+Eugênio de Castro tem estrada para Rodeio Bonito
+Eugênio de Castro tem estrada para Campos do Jordão
+Guiratinga tem estrada para Iporá
+Eugênio de Castro tem estrada para Itabuna
+Tambaú tem estrada para Milton Brandão
+Axixá do Tocantins tem estrada para Rio Bonito
+Eugênio de Castro tem estrada para Jatobá do Piauí
+Eugênio de Castro tem estrada para Piripiri
+Honório Serpa tem estrada para Andradas
+Bacuri tem estrada para Ferros
+Eugênio de Castro tem estrada para Rio de Contas
+Eugênio de Castro tem estrada para Nova Olinda
+Dois Irmãos do Tocantins tem estrada para Paraíso do Norte
+Rio Bananal tem estrada para Guaiçara
+Pradópolis tem estrada para Montes Altos
+Araranguá tem estrada para Volta Grande
+Eugênio de Castro tem estrada para Botuporã
+Eugênio de Castro tem estrada para São Pedro dos Crentes
+Gonzaga tem estrada para Tambaú
+Eugênio de Castro tem estrada para Gurupá
+Conceição do Pará tem estrada para Alpestre
+Eugênio de Castro tem estrada para Ipaba
+Eugênio de Castro tem estrada para Indianópolis
+Humaitá tem estrada para Paulistânia
+Eugênio de Castro tem estrada para Braço do Trombudo
+Embu das Artes tem estrada para Congonhas do Norte
+Eugênio de Castro tem estrada para Olindina
+Caseara tem estrada para Prado
+Damianópolis tem estrada para Visconde do Rio Branco
+Dom Feliciano tem estrada para Monteiro
+Manoel Ribas tem estrada para Araçás
+Barreiras do Piauí tem estrada para Taquaruçu do Sul
+Iaras tem estrada para Gália
+Niterói tem estrada para Araçás
+Mata Grande tem estrada para Rio Bom
+Dom Basílio tem estrada para Junqueirópolis
+Quinta do Sol tem estrada para Dirce Reis
+Quiterianópolis tem estrada para Mogi Mirim
+Belterra tem estrada para Tupi Paulista
+Eugênio de Castro tem estrada para Maetinga
+Eugênio de Castro tem estrada para Gália
+Formigueiro tem estrada para Mazagão
+Eugênio de Castro tem estrada para Glória
+Diorama tem estrada para Rio Novo
+Eugênio de Castro tem estrada para Rolim de Moura
+Eugênio de Castro tem estrada para Presidente Venceslau
+Conceição do Pará tem estrada para Colina
+Eugênio de Castro tem estrada para Bocaina de Minas
+Indianópolis tem estrada para Volta Grande
+Campos do Jordão tem estrada para Taquaruçu do Sul
+Araponga tem estrada para Campina Grande do Sul
+Biguaçu tem estrada para Vargem Alta
+Juiz de Fora tem estrada para Bom Jardim de Goiás
+Eugênio de Castro tem estrada para Paracatu
+Eugênio de Castro tem estrada para Guaiçara
+Eugênio de Castro tem estrada para Cafeara
+Eugênio de Castro tem estrada para Rubineia
+Moreira Sales tem estrada para Milton Brandão
+Iaras tem estrada para Dom Basílio
+Eugênio de Castro tem estrada para Vargem Alta
+Eugênio de Castro tem estrada para Dirce Reis
+Araponga tem estrada para Maetinga
+Valença do Piauí tem estrada para Pedra Grande
+Canhoba tem estrada para Assaí
+Eugênio de Castro tem estrada para Santa Juliana
+Miraíma tem estrada para Ouricuri
+Andradas tem estrada para Tuneiras do Oeste
+Maragogipe tem estrada para Icém
+Eugênio de Castro tem estrada para Palmeirais
+Miraíma tem estrada para Garruchos
+Eugênio de Castro tem estrada para Bodoquena
+Eugênio de Castro tem estrada para Pedralva
+Ibirataia tem estrada para Lagedo do Tabocal
+São Carlos tem estrada para Pedra Grande
+Eugênio de Castro tem estrada para Guiratinga
+Eugênio de Castro tem estrada para Eliseu Martins
+Bocaina de Minas tem estrada para Américo de Campos
+Eugênio de Castro tem estrada para Assaí
+Ribeirão dos Índios tem estrada para São João do Ivaí
+Eugênio de Castro tem estrada para São José do Divino
+Manoel Urbano tem estrada para Taquaruçu do Sul
+São José do Norte tem estrada para Afogados da Ingazeira
+Macedônia tem estrada para Laranjal do Jari
+Glória tem estrada para Palmeirais
+Eugênio de Castro tem estrada para Canhoba
+Eugênio de Castro tem estrada para Damianópolis
+Jequiá da Praia tem estrada para Juiz de Fora
+Canhoba tem estrada para Júlio Borges
+Maetinga tem estrada para Paracatu
+Colinas do Sul tem estrada para Pradópolis
+Eugênio de Castro tem estrada para Ipê
+Cunha tem estrada para Coqueiro Seco
+Dois Irmãos do Tocantins tem estrada para Balneário Arroio do Silva
+Eugênio de Castro tem estrada para Cunha
+Juranda tem estrada para Rio Novo
+Miracema tem estrada para Alfredo Wagner
+Santa Juliana tem estrada para Gurinhém
+Macedônia tem estrada para Brasileira
+Eugênio de Castro tem estrada para São Geraldo do Araguaia
+Goiatuba tem estrada para Entre Rios de Minas
+Eugênio de Castro tem estrada para Guaraqueçaba
+Eugênio de Castro tem estrada para Conceição do Pará
+Eugênio de Castro tem estrada para Prado
+Eugênio de Castro tem estrada para Miraíma
+Ipê tem estrada para Duque Bacelar
+Eugênio de Castro tem estrada para Jandira
+Júlio Borges tem estrada para Assaí
+Novo Xingu tem estrada para Rio Bom
+São José do Divino tem estrada para Turiaçu
+Espírito Santo do Dourado tem estrada para Pequizeiro
+Eusébio tem estrada para Lagoa dos Patos
+Dom Pedro de Alcântara tem estrada para Campo Alegre do Fidalgo
+Morretes tem estrada para São Bento do Norte
+Eugênio de Castro tem estrada para Ecoporanga
+Jordão tem estrada para Gurupá
+Rio Negro tem estrada para Caracol
+Eugênio de Castro tem estrada para Belterra
+São José do Norte tem estrada para Mathias Lobato
+Eugênio de Castro tem estrada para Visconde do Rio Branco
+Eugênio de Castro tem estrada para Juranda
+Mata Grande tem estrada para Planalto
+Boa Vista da Aparecida tem estrada para Várzea da Roça
+Lagedo do Tabocal tem estrada para Guaiçara
+Atalaia tem estrada para Piripiri
+Quatro Barras tem estrada para Balsa Nova
+Montes Altos tem estrada para Várzea da Roça
+Diorama tem estrada para Barra do Rocha
+Guiratinga tem estrada para Jandira
+Jordão tem estrada para Guiratinga
+Ferros tem estrada para Americano do Brasil
+Vila Lângaro tem estrada para Coqueiro Seco
+Nova Módica tem estrada para Bocaina de Minas
+Eugênio de Castro tem estrada para Rancho Alegre d'Oeste
+Eugênio de Castro tem estrada para São Bento do Norte
+Macaé tem estrada para Glória
+Eugênio de Castro tem estrada para Quiterianópolis
+Eugênio de Castro tem estrada para São Miguel do Gostoso
+Alpestre tem estrada para São Miguel do Gostoso
+Ribeirão dos Índios tem estrada para Ibititá
+Guiratinga tem estrada para Batayporã
+Eugênio de Castro tem estrada para Balneário Arroio do Silva
+Santo Antônio do Sudoeste tem estrada para Sertaneja
+Apiúna tem estrada para Americano do Brasil
+Coroaci tem estrada para São Sebastião da Grama
+Coronel Bicaco tem estrada para Cunha
+Miraíma tem estrada para Água Fria
+Eugênio de Castro tem estrada para Várzea da Roça
+Eugênio de Castro tem estrada para Rio Bananal
+Telêmaco Borba tem estrada para Espírito Santo do Dourado
+São José do Divino tem estrada para Américo de Campos
+Sulina tem estrada para Lagoa dos Patos
+Ilha das Flores tem estrada para Tuneiras do Oeste
+Tambaú tem estrada para Veranópolis
+Macaé tem estrada para Gurupá
+Garruchos tem estrada para Mathias Lobato
+Mata Grande tem estrada para Nova Luzitânia
+Rodolfo Fernandes tem estrada para Quinta do Sol
+Eugênio de Castro tem estrada para Pacoti
+Jequiá da Praia tem estrada para Catarina
+Eugênio de Castro tem estrada para Lagedo do Tabocal
+Eugênio de Castro tem estrada para Sertaneja
+Acabaram as estradas

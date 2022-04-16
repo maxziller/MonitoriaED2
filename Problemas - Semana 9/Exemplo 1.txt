@@ -1,0 +1,61 @@
+15
+Cambará
+Assunção do Piauí - x: 720 y: 441
+Eldorado - x: 306 y: 696
+Ibiá - x: 512 y: 67
+Floraí - x: 459 y: 366
+São Félix do Tocantins - x: 574 y: 880
+Iguatu - x: 629 y: 407
+Miguel Leão - x: 938 y: 204
+Serrinha - x: 646 y: 262
+Ji-Paraná - x: 985 y: 520
+Cambará - x: 466 y: 451
+Sorocaba - x: 4 y: 525
+Ecoporanga - x: 227 y: 376
+Garibaldi - x: 459 y: 854
+Monte Alegre de Goiás - x: 193 y: 891
+Itauçu - x: 492 y: 970
+Iguatu tem estrada para Ji-Paraná
+Garibaldi tem estrada para Itauçu
+Garibaldi tem estrada para Monte Alegre de Goiás
+Assunção do Piauí tem estrada para Garibaldi
+Assunção do Piauí tem estrada para Iguatu
+Ibiá tem estrada para Cambará
+Floraí tem estrada para Iguatu
+Serrinha tem estrada para Cambará
+Assunção do Piauí tem estrada para Sorocaba
+São Félix do Tocantins tem estrada para Monte Alegre de Goiás
+Miguel Leão tem estrada para Ji-Paraná
+Assunção do Piauí tem estrada para Serrinha
+Assunção do Piauí tem estrada para Monte Alegre de Goiás
+Assunção do Piauí tem estrada para Cambará
+Ibiá tem estrada para Ecoporanga
+Assunção do Piauí tem estrada para Ibiá
+Assunção do Piauí tem estrada para Floraí
+Ibiá tem estrada para Iguatu
+Assunção do Piauí tem estrada para Miguel Leão
+Assunção do Piauí tem estrada para Ji-Paraná
+Sorocaba tem estrada para Monte Alegre de Goiás
+Eldorado tem estrada para Cambará
+Assunção do Piauí tem estrada para Itauçu
+Ibiá tem estrada para Serrinha
+Eldorado tem estrada para Garibaldi
+São Félix do Tocantins tem estrada para Garibaldi
+Iguatu tem estrada para Ecoporanga
+Cambará tem estrada para Ecoporanga
+Floraí tem estrada para Cambará
+Eldorado tem estrada para Monte Alegre de Goiás
+Floraí tem estrada para Serrinha
+Miguel Leão tem estrada para Serrinha
+Monte Alegre de Goiás tem estrada para Itauçu
+Assunção do Piauí tem estrada para Eldorado
+Cambará tem estrada para Sorocaba
+São Félix do Tocantins tem estrada para Itauçu
+Eldorado tem estrada para São Félix do Tocantins
+Iguatu tem estrada para Cambará
+Sorocaba tem estrada para Ecoporanga
+Floraí tem estrada para Ecoporanga
+Iguatu tem estrada para Serrinha
+Assunção do Piauí tem estrada para Ecoporanga
+Assunção do Piauí tem estrada para São Félix do Tocantins
+Acabaram as estradas
